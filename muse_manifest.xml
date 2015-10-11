@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="stgeorgeswimlessons.com" resolutions="1x" timestamp="1444537315617">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="stgeorgeswimlessons.com" resolutions="1x" timestamp="1444539588567">
   <folder name="css">
     <file name="site_global.css" crc="341351635"/>
-    <file name="index.css" crc="410659617" ref="index"/>
+    <file name="index.css" crc="230020697" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -18,10 +18,9 @@
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="in the kayak.jpg" crc="204389908" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="cooltext141885375437270.png" crc="4085290943" seo="true" ref="index"/>
+    <file name="cooltext141885375437270.png" crc="4188380350" seo="true" ref="index"/>
     <file name="adobestock_42207631_wm.jpg" crc="406043542" ref="index"/>
     <file name="adobestock_61116706_wm.jpg" crc="3891767991" ref="index"/>
     <file name="adobestock_52927173_wm.jpg" crc="3868825013" ref="index"/>
@@ -38,6 +37,8 @@
     <file name="icon1.png" crc="4197530190" seo="true" ref="index"/>
     <file name="placeholder-crop-u986.jpg" crc="312644117" ref="index"/>
     <file name="placeholder-crop-u959.jpg" crc="371112730" ref="index"/>
+    <file name="adobestock_74316753_wm.jpg" crc="77231793" seo="true" ref="index"/>
+    <file name="cooltext141890396515371.png" crc="388403236" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3857440402" seo="true" mt="1444537139767" redirect="true"/>
+  <file name="index.html" crc="3930940964" seo="true" mt="1444539529500" redirect="true"/>
 </manifest>
