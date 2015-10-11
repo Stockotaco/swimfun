@@ -1,16 +1,43 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Swimfun.com" resolutions="1x" timestamp="1444510526035">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="stgeorgeswimlessons.com" resolutions="1x" timestamp="1444537315617">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="221331842" ref="index"/>
+    <file name="site_global.css" crc="341351635"/>
+    <file name="index.css" crc="410659617" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
     <file name="museutils.js" crc="275725342" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+    <file name="webpro.js" crc="3883484123" ref="index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="tiger shark head.jpg" crc="4284502277" seo="true" ref="index"/>
+    <file name="in the kayak.jpg" crc="204389908" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="cooltext141885375437270.png" crc="4085290943" seo="true" ref="index"/>
+    <file name="adobestock_42207631_wm.jpg" crc="406043542" ref="index"/>
+    <file name="adobestock_61116706_wm.jpg" crc="3891767991" ref="index"/>
+    <file name="adobestock_52927173_wm.jpg" crc="3868825013" ref="index"/>
+    <file name="adobestock_66033703_wm.jpg" crc="3868997875" ref="index"/>
+    <file name="qoutes.png" crc="49248888" seo="true" ref="index"/>
+    <file name="1280840_10201971459274238_117092193_n-crop-u1054.jpg" crc="351737843" ref="index"/>
+    <file name="placeholder-crop-u1039.jpg" crc="4204808931" ref="index"/>
+    <file name="placeholder-crop-u1050.jpg" crc="88811388" ref="index"/>
+    <file name="adobestock_60962753_wm-u939-fr.png" crc="3870184593" ref="index"/>
+    <file name="placeholder-crop-u953.jpg" crc="4155986094" ref="index"/>
+    <file name="icon4.png" crc="209647003" seo="true" ref="index"/>
+    <file name="icon3.png" crc="3961184872" seo="true" ref="index"/>
+    <file name="icon2.png" crc="121253092" seo="true" ref="index"/>
+    <file name="icon1.png" crc="4197530190" seo="true" ref="index"/>
+    <file name="placeholder-crop-u986.jpg" crc="312644117" ref="index"/>
+    <file name="placeholder-crop-u959.jpg" crc="371112730" ref="index"/>
   </folder>
-  <file name="index.html" crc="4277423297" seo="true" mt="1443224232617" redirect="true"/>
+  <file name="index.html" crc="3857440402" seo="true" mt="1444537139767" redirect="true"/>
 </manifest>
