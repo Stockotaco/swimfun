@@ -1,44 +1,58 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="stgeorgeswimlessons.com" resolutions="1x" timestamp="1444539588567">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1444690035210">
   <folder name="css">
-    <file name="site_global.css" crc="341351635"/>
-    <file name="index.css" crc="230020697" ref="index"/>
+    <file name="site_global.css" crc="4087719246"/>
+    <file name="index.css" crc="138929597" ref="index"/>
+    <file name="sign-up.css" crc="238388879" ref="sign-up"/>
+    <file name="how-it-works.css" crc="359330594" ref="how-it-works"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
-    <file name="museutils.js" crc="275725342" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
-    <file name="webpro.js" crc="3883484123" ref="index"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index"/>
-    <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:how-it-works:sign-up"/>
+    <file name="museutils.js" crc="275725342" ref="index:how-it-works:sign-up"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:how-it-works:sign-up"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:how-it-works:sign-up"/>
+    <file name="webpro.js" crc="3883484123" ref="index:how-it-works:sign-up"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:how-it-works:sign-up"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:how-it-works:sign-up"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:how-it-works:sign-up"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:how-it-works:sign-up"/>
+    <file name="pie.js" crc="3827607177" ref="index:how-it-works:sign-up"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:how-it-works"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:how-it-works:sign-up"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u563.php" crc="3817351538" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="cooltext141885375437270.png" crc="4188380350" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:how-it-works:sign-up"/>
+    <file name="loading.gif" crc="3815509949" ref="index:how-it-works:sign-up"/>
+    <file name="cooltext141885375437270.png" crc="353187566" seo="true" ref="index:how-it-works:sign-up"/>
     <file name="adobestock_42207631_wm.jpg" crc="406043542" ref="index"/>
     <file name="adobestock_61116706_wm.jpg" crc="3891767991" ref="index"/>
     <file name="adobestock_52927173_wm.jpg" crc="3868825013" ref="index"/>
-    <file name="adobestock_66033703_wm.jpg" crc="3868997875" ref="index"/>
     <file name="qoutes.png" crc="49248888" seo="true" ref="index"/>
-    <file name="1280840_10201971459274238_117092193_n-crop-u1054.jpg" crc="351737843" ref="index"/>
-    <file name="placeholder-crop-u1039.jpg" crc="4204808931" ref="index"/>
-    <file name="placeholder-crop-u1050.jpg" crc="88811388" ref="index"/>
+    <file name="1280840_10201971459274238_117092193_n-crop-u1054.jpg" crc="4012567335" ref="index"/>
     <file name="adobestock_60962753_wm-u939-fr.png" crc="3870184593" ref="index"/>
     <file name="placeholder-crop-u953.jpg" crc="4155986094" ref="index"/>
     <file name="icon4.png" crc="209647003" seo="true" ref="index"/>
     <file name="icon3.png" crc="3961184872" seo="true" ref="index"/>
     <file name="icon2.png" crc="121253092" seo="true" ref="index"/>
     <file name="icon1.png" crc="4197530190" seo="true" ref="index"/>
-    <file name="placeholder-crop-u986.jpg" crc="312644117" ref="index"/>
     <file name="placeholder-crop-u959.jpg" crc="371112730" ref="index"/>
-    <file name="adobestock_74316753_wm.jpg" crc="77231793" seo="true" ref="index"/>
-    <file name="cooltext141890396515371.png" crc="388403236" seo="true" ref="index"/>
+    <file name="adobestock_74316753_wm.jpg" crc="77231793" seo="true" ref="index:how-it-works:sign-up"/>
+    <file name="ocean_textures_backgrounds_tiles_1920x1080.jpg" crc="3971142989" ref="index:how-it-works"/>
+    <file name="1280840_10201971459274238_117092193_n-crop-u1039.jpg" crc="65007438" ref="index"/>
+    <file name="1280840_10201971459274238_117092193_n-crop-u1050.jpg" crc="4012567335" ref="index"/>
+    <file name="1280840_10201971459274238_117092193_n-crop-u986.jpg" crc="3901804719" ref="index"/>
+    <file name="u573-17.png" crc="4288290909" ref="index"/>
+    <file name="u573-17-r.png" crc="4115622474" ref="index"/>
+    <file name="u573-17-m.png" crc="4115622474" ref="index"/>
+    <file name="u573-17-fs.png" crc="74632125" ref="index"/>
+    <file name="adobestock_42207631_wm490x327.jpg" crc="4008057585" seo="true" ref="how-it-works"/>
+    <file name="adobestock_61116706_wm490x326.jpg" crc="4061769991" seo="true" ref="how-it-works"/>
+    <file name="adobestock_52927173_wm492x329.jpg" crc="4252310571" seo="true" ref="how-it-works"/>
   </folder>
-  <file name="index.html" crc="3930940964" seo="true" mt="1444539529500" redirect="true"/>
+  <file name="index.html" crc="4127921255" seo="true" mt="1444670815797" redirect="true"/>
+  <file name="how-it-works.html" crc="4184597887" seo="true" mt="1444671660429" redirect="true"/>
+  <file name="sign-up.html" crc="339835669" seo="true" mt="1444620470572" redirect="true"/>
 </manifest>
