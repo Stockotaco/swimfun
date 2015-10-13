@@ -117,6 +117,30 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
+.My-custom a:link
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+.My-custom a:visited
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+.My-custom a:hover
+{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.My-custom a:active
+{
+	color: #0071BC;
+	text-decoration: none;
+}
+
 .normal_text
 {
 	color: #000000;

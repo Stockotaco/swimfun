@@ -7,48 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/images/adobestock_42207631_wm.jpg</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/adobestock_52927173_wm.jpg</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/qoutes.png</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/icon4.png</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/icon3.png</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/icon2.png</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://musefree.com/images/icon1.png</loc>
-    <lastmod>2015-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://musefree.com/images/adobestock_74316753_wm.jpg</loc>
     <lastmod>2015-10-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,6 +14,12 @@
   </url>
   <url>
     <loc>http://musefree.com/images/adobestock_61116706_wm490x326.jpg</loc>
+    <lastmod>2015-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/images/adobestock_62207455_wm.jpg</loc>
     <lastmod>2015-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,13 +37,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/sign-up.html</loc>
+    <loc>http://musefree.com/contact-us.html</loc>
     <lastmod>2015-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://musefree.com/contact-us.html</loc>
+    <loc>http://musefree.com/register.html</loc>
+    <lastmod>2015-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/pricing.html</loc>
     <lastmod>2015-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

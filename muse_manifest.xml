@@ -1,65 +1,55 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1444707198876">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1444715693157">
   <folder name="css">
-    <file name="site_global.css" crc="4087719246"/>
-    <file name="index.css" crc="222861695" ref="index"/>
-    <file name="sign-up.css" crc="51935533" ref="sign-up"/>
-    <file name="how-it-works.css" crc="3948894212" ref="how-it-works"/>
-    <file name="contact-us.css" crc="4064643835" ref="contact-us"/>
+    <file name="site_global.css" crc="528136191"/>
+    <file name="index.css" crc="4037578224" ref="index"/>
+    <file name="how-it-works.css" crc="79098447" ref="how-it-works"/>
+    <file name="contact-us.css" crc="4247736187" ref="contact-us"/>
+    <file name="register.css" crc="72809422" ref="register"/>
+    <file name="pricing.css" crc="133186750" ref="pricing"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="museutils.js" crc="275725342" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="webpro.js" crc="3883484123" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="touchswipe.js" crc="4218319045" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="pie.js" crc="3827607177" ref="index:how-it-works:sign-up"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="museutils.js" crc="275725342" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="webpro.js" crc="3883484123" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="pie.js" crc="3827607177" ref="index:how-it-works:register:contact-us:pricing"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:how-it-works"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="form_check.php" crc="3932029206" ref="index:contact-us"/>
-    <file name="form_throttle.php" crc="314685628" ref="index:contact-us"/>
-    <file name="form_process.php" crc="401030677" ref="index:contact-us"/>
-    <file name="form-u563.php" crc="3817351538" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="form_check.php" crc="3932029206" ref="contact-us"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact-us"/>
+    <file name="form_process.php" crc="401030677" ref="contact-us"/>
     <file name="form-u4161.php" crc="3775694781" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="loading.gif" crc="3815509949" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="cooltext141885375437270.png" crc="353187566" seo="true" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="adobestock_42207631_wm.jpg" crc="4008057585" ref="how-it-works" seo="true"/>
+    <file name="blank.gif" crc="4208392903" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="loading.gif" crc="3815509949" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="cooltext141885375437270.png" crc="353187566" seo="true" ref="index:how-it-works:contact-us:register:pricing"/>
     <file name="adobestock_61116706_wm.jpg" crc="3891767991" ref="index"/>
-    <file name="adobestock_52927173_wm.jpg" crc="4252310571" ref="how-it-works" seo="true"/>
-    <file name="qoutes.png" crc="49248888" seo="true" ref="index"/>
-    <file name="1280840_10201971459274238_117092193_n-crop-u1054.jpg" crc="4012567335" ref="index"/>
     <file name="adobestock_60962753_wm-u939-fr.png" crc="3870184593" ref="index"/>
-    <file name="placeholder-crop-u953.jpg" crc="4155986094" ref="index"/>
-    <file name="icon4.png" crc="209647003" seo="true" ref="index"/>
-    <file name="icon3.png" crc="3961184872" seo="true" ref="index"/>
-    <file name="icon2.png" crc="121253092" seo="true" ref="index"/>
-    <file name="icon1.png" crc="4197530190" seo="true" ref="index"/>
-    <file name="placeholder-crop-u959.jpg" crc="371112730" ref="index"/>
-    <file name="adobestock_74316753_wm.jpg" crc="77231793" seo="true" ref="index:how-it-works:sign-up:contact-us"/>
-    <file name="ocean_textures_backgrounds_tiles_1920x1080.jpg" crc="3971142989" ref="index:how-it-works"/>
-    <file name="1280840_10201971459274238_117092193_n-crop-u1039.jpg" crc="65007438" ref="index"/>
-    <file name="1280840_10201971459274238_117092193_n-crop-u1050.jpg" crc="4012567335" ref="index"/>
-    <file name="1280840_10201971459274238_117092193_n-crop-u986.jpg" crc="3901804719" ref="index"/>
-    <file name="u573-17.png" crc="4288290909" ref="index"/>
-    <file name="u573-17-r.png" crc="4115622474" ref="index"/>
-    <file name="u573-17-m.png" crc="4115622474" ref="index"/>
-    <file name="u573-17-fs.png" crc="74632125" ref="index"/>
+    <file name="adobestock_74316753_wm.jpg" crc="77231793" seo="true" ref="index:how-it-works:contact-us:register:pricing"/>
+    <file name="ocean_textures_backgrounds_tiles_1920x1080.jpg" crc="3971142989" ref="index"/>
     <file name="adobestock_61116706_wm490x326.jpg" crc="4061769991" seo="true" ref="how-it-works"/>
     <file name="adobestock_4240617_wm.jpg" crc="416249319" ref="index"/>
     <file name="adobestock_3744646_wm.jpg" crc="3834152141" ref="index"/>
     <file name="u4172-21.png" crc="4229966349" ref="contact-us"/>
     <file name="u4172-21-r.png" crc="178450450" ref="contact-us"/>
-    <file name="u4172-21-m.png" crc="367313392" ref="contact-us"/>
+    <file name="u4172-21-m.png" crc="357891388" ref="contact-us"/>
     <file name="u4172-21-fs.png" crc="4040278885" ref="contact-us"/>
+    <file name="adobestock_90162379_wm.jpg" crc="437474802" ref="index"/>
+    <file name="adobestock_4022260_wm.jpg" crc="236512563" ref="index"/>
+    <file name="adobestock_75492606_wm.jpg" crc="506992607" ref="index:how-it-works"/>
+    <file name="adobestock_4240617_wm-crop-u3540.jpg" crc="512057860" ref="how-it-works"/>
+    <file name="adobestock_3744646_wm-crop-u3549.jpg" crc="4211274069" ref="how-it-works"/>
+    <file name="adobestock_62207455_wm.jpg" crc="167724992" seo="true" ref="how-it-works"/>
   </folder>
-  <file name="index.html" crc="479678042" seo="true" mt="1444706586609" redirect="true"/>
-  <file name="how-it-works.html" crc="327269271" seo="true" mt="1444706594038" redirect="true"/>
-  <file name="sign-up.html" crc="4222027781" seo="true" mt="1444706602267" redirect="true"/>
-  <file name="contact-us.html" crc="4152072211" seo="true" mt="1444707087659" redirect="true"/>
+  <file name="index.html" crc="136131753" seo="true" mt="1444715602932" redirect="true"/>
+  <file name="how-it-works.html" crc="4069790602" seo="true" mt="1444715613519" redirect="true"/>
+  <file name="contact-us.html" crc="4063640729" seo="true" mt="1444715616668" redirect="true"/>
+  <file name="register.html" crc="3901269631" seo="true" mt="1444715609696" redirect="true"/>
+  <file name="pricing.html" crc="434681502" seo="true" mt="1444715606586" redirect="true"/>
 </manifest>
