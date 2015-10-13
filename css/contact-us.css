@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000FD;
-	background-color: #2F4F7B;
+	color: #000016;
+	background-color: #1658D0;
 }
 
 #page
@@ -119,9 +119,9 @@
 	min-height: 349px;
 	background-color: transparent;
 	line-height: 36px;
+	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -769,8 +769,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	line-height: 14px;
-	font-size: 12px;
 	color: #FF0000;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -798,8 +798,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	line-height: 12px;
-	font-size: 12px;
 	color: #00FF00;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1007,7 +1007,7 @@
 	z-index: 2;
 	height: 47px;
 	background-color: #29ABE2;
-	border-radius: 59px 59px 0px 0px ;
+	border-radius: 20px 20px 0px 0px ;
 }
 
 #u4436-bw

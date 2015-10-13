@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1444715693157">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1444764955744">
   <folder name="css">
-    <file name="site_global.css" crc="528136191"/>
-    <file name="index.css" crc="4037578224" ref="index"/>
-    <file name="how-it-works.css" crc="79098447" ref="how-it-works"/>
-    <file name="contact-us.css" crc="4247736187" ref="contact-us"/>
-    <file name="register.css" crc="72809422" ref="register"/>
-    <file name="pricing.css" crc="133186750" ref="pricing"/>
+    <file name="site_global.css" crc="4232978082"/>
+    <file name="index.css" crc="4180941779" ref="index"/>
+    <file name="how-it-works.css" crc="317610946" ref="how-it-works"/>
+    <file name="contact-us.css" crc="370563280" ref="contact-us"/>
+    <file name="register.css" crc="99456595" ref="register"/>
+    <file name="pricing.css" crc="293397142" ref="pricing"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:how-it-works:contact-us:register:pricing"/>
@@ -47,9 +47,9 @@
     <file name="adobestock_3744646_wm-crop-u3549.jpg" crc="4211274069" ref="how-it-works"/>
     <file name="adobestock_62207455_wm.jpg" crc="167724992" seo="true" ref="how-it-works"/>
   </folder>
-  <file name="index.html" crc="136131753" seo="true" mt="1444715602932" redirect="true"/>
-  <file name="how-it-works.html" crc="4069790602" seo="true" mt="1444715613519" redirect="true"/>
-  <file name="contact-us.html" crc="4063640729" seo="true" mt="1444715616668" redirect="true"/>
-  <file name="register.html" crc="3901269631" seo="true" mt="1444715609696" redirect="true"/>
-  <file name="pricing.html" crc="434681502" seo="true" mt="1444715606586" redirect="true"/>
+  <file name="index.html" crc="4288447777" seo="true" mt="1444754719450" redirect="true"/>
+  <file name="how-it-works.html" crc="4277268212" seo="true" mt="1444753325910" redirect="true"/>
+  <file name="contact-us.html" crc="4118087299" seo="true" mt="1444754394082" redirect="true"/>
+  <file name="register.html" crc="4194030890" seo="true" mt="1444753705622" redirect="true"/>
+  <file name="pricing.html" crc="157216588" seo="true" mt="1444754368869" redirect="true"/>
 </manifest>
