@@ -1,7 +1,7 @@
 .version.sign_up /* version checker */
 {
-	color: #00000E;
-	background-color: #35868F;
+	color: #000003;
+	background-color: #18792D;
 }
 
 .html
@@ -124,10 +124,10 @@
 	width: 375px;
 	min-height: 349px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -463,13 +463,6 @@
 	position: relative;
 }
 
-#u3800.MuseMenuActive
-{
-	width: 207px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u3803-4
 {
 	width: 132px;
@@ -595,11 +588,11 @@
 	width: 327px;
 	border-style: none;
 	background-color: transparent;
-	letter-spacing: 10px;
+	line-height: 22px;
 	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
+	letter-spacing: 10px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 }
@@ -633,9 +626,9 @@
 	width: 109px;
 	min-height: 76px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 60px;
 	line-height: 72px;
+	font-size: 60px;
+	color: #000000;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -649,8 +642,8 @@
 	width: 327px;
 	min-height: 233px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 58px;
+	color: #FFFFFF;
 	margin-top: 36px;
 	position: relative;
 }
@@ -696,9 +689,9 @@
 	width: 160px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
+	color: #000000;
 	letter-spacing: 9px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
@@ -820,9 +813,9 @@
 	width: 109px;
 	min-height: 76px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 60px;
 	line-height: 72px;
+	font-size: 60px;
+	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -939,9 +932,9 @@
 	width: 109px;
 	min-height: 76px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 60px;
 	line-height: 72px;
+	font-size: 60px;
+	color: #FFFFFF;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
 	margin-right: -10000px;
@@ -1011,9 +1004,9 @@
 	width: 112px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
 	letter-spacing: 9px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;
@@ -1028,9 +1021,9 @@
 	width: 154px;
 	min-height: 30px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
+	color: #FFFFFF;
 	letter-spacing: 9px;
 	font-family: Courier New, Courier, monospace;
 	position: relative;

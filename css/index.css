@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000008;
-	background-color: #47E5BD;
+	color: #00000D;
+	background-color: #48997F;
 }
 
 #page
@@ -26,7 +26,7 @@
 
 #slideshowu1136
 {
-	z-index: 250;
+	z-index: 249;
 	width: 0.01px;
 	height: 595px;
 	left: -100px;
@@ -43,12 +43,12 @@
 
 #u1138popup
 {
-	z-index: 251;
+	z-index: 250;
 }
 
 #u1273
 {
-	z-index: 252;
+	z-index: 251;
 	width: 1220px;
 	height: 595px;
 	border-style: none;
@@ -73,7 +73,7 @@
 
 #u2244
 {
-	z-index: 287;
+	z-index: 286;
 	width: 516px;
 	background-color: transparent;
 	position: fixed;
@@ -91,7 +91,7 @@
 
 #pu2733
 {
-	z-index: 289;
+	z-index: 288;
 	width: 0.01px;
 	position: relative;
 	margin-left: 33px;
@@ -123,21 +123,21 @@
 
 #u2734-12
 {
-	z-index: 291;
+	z-index: 290;
 	width: 375px;
 	min-height: 349px;
 	background-color: transparent;
-	color: #FFFFFF;
+	line-height: 36px;
 	font-size: 30px;
 	text-align: center;
-	line-height: 36px;
+	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u1162
 {
-	z-index: 254;
+	z-index: 253;
 	height: 70px;
 	border-color: #000000;
 	background-color: #000000;
@@ -148,7 +148,7 @@
 
 #u1162-bw
 {
-	z-index: 254;
+	z-index: 253;
 	position: fixed;
 	left: 0px;
 	right: 0px;
@@ -157,7 +157,7 @@
 
 #u3277
 {
-	z-index: 290;
+	z-index: 289;
 	width: 170px;
 	height: 70px;
 	background-color: #FFFFFF;
@@ -171,7 +171,7 @@
 
 #menuu1163
 {
-	z-index: 255;
+	z-index: 254;
 	width: 986px;
 	border-style: none;
 	border-color: transparent;
@@ -466,13 +466,6 @@
 	position: relative;
 }
 
-#u1193.MuseMenuActive
-{
-	width: 207px;
-	min-height: 0px;
-	margin: 0px;
-}
-
 #u1194-4
 {
 	width: 132px;
@@ -524,7 +517,7 @@
 
 #u1098-4
 {
-	z-index: 205;
+	z-index: 206;
 	width: 980px;
 	min-height: 60px;
 	background-color: transparent;
@@ -536,7 +529,7 @@
 
 #buttonu1099
 {
-	z-index: 209;
+	z-index: 210;
 	width: 307px;
 	border-color: #787878;
 	background-color: transparent;
@@ -549,18 +542,18 @@
 
 #u1100
 {
-	z-index: 210;
+	z-index: 211;
 	width: 307px;
 	height: 221px;
 	border-color: #000000;
 	border-radius: 8px;
 	position: relative;
-	background: transparent url("../images/adobestock_42207631_wm.jpg") no-repeat center center;
+	background: transparent url("../images/adobestock_4240617_wm.jpg") no-repeat center center;
 }
 
 #u1101-4
 {
-	z-index: 211;
+	z-index: 212;
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
@@ -584,9 +577,9 @@
 	visibility: inherit;
 }
 
-#u1102-8
+#u1102-5
 {
-	z-index: 215;
+	z-index: 216;
 	width: 307px;
 	min-height: 93px;
 	background-color: transparent;
@@ -596,7 +589,7 @@
 
 #buttonu1103
 {
-	z-index: 223;
+	z-index: 221;
 	width: 307px;
 	border-color: #787878;
 	background-color: transparent;
@@ -609,7 +602,7 @@
 
 #u1104
 {
-	z-index: 224;
+	z-index: 222;
 	width: 307px;
 	height: 221px;
 	border-color: #000000;
@@ -620,7 +613,7 @@
 
 #u1106-4
 {
-	z-index: 231;
+	z-index: 233;
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
@@ -644,9 +637,9 @@
 	visibility: inherit;
 }
 
-#u1105-6
+#u1105-10
 {
-	z-index: 225;
+	z-index: 223;
 	width: 307px;
 	min-height: 93px;
 	background-color: transparent;
@@ -656,7 +649,7 @@
 
 #buttonu1107
 {
-	z-index: 235;
+	z-index: 237;
 	width: 307px;
 	border-color: #787878;
 	background-color: transparent;
@@ -676,13 +669,13 @@
 
 #u1110
 {
-	z-index: 236;
+	z-index: 238;
 	width: 307px;
 	height: 221px;
 	border-color: #000000;
 	border-radius: 8px;
 	position: relative;
-	background: transparent url("../images/adobestock_52927173_wm.jpg") no-repeat center center;
+	background: transparent url("../images/adobestock_3744646_wm.jpg") no-repeat center center;
 }
 
 #buttonu1099.ButtonSelected #u1100,#buttonu1103.ButtonSelected #u1104,#buttonu1107.ButtonSelected #u1110
@@ -697,7 +690,7 @@
 
 #u1108-4
 {
-	z-index: 245;
+	z-index: 244;
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
@@ -736,9 +729,9 @@
 	visibility: inherit;
 }
 
-#u1109-8
+#u1109-5
 {
-	z-index: 237;
+	z-index: 239;
 	width: 307px;
 	min-height: 93px;
 	background-color: transparent;
@@ -746,7 +739,7 @@
 	position: relative;
 }
 
-#buttonu1099.ButtonSelected #u1102-8,#buttonu1103.ButtonSelected #u1105-6,#buttonu1107.ButtonSelected #u1109-8
+#buttonu1099.ButtonSelected #u1102-5,#buttonu1103.ButtonSelected #u1105-10,#buttonu1107.ButtonSelected #u1109-5
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -800,9 +793,9 @@
 	width: 980px;
 	min-height: 33px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
+	color: #FFFFFF;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -817,9 +810,9 @@
 	width: 980px;
 	min-height: 89px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 72px;
 	line-height: 86px;
+	font-size: 72px;
+	color: #FFFFFF;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1366,9 +1359,9 @@
 	width: 310px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 15px;
 	line-height: 18px;
+	font-size: 15px;
+	color: #000000;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	margin-top: 2px;
@@ -1491,9 +1484,9 @@
 	width: 310px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 15px;
 	line-height: 18px;
+	font-size: 15px;
+	color: #000000;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	margin-top: 2px;
@@ -1634,9 +1627,9 @@
 	width: 307px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #000000;
-	font-size: 15px;
 	line-height: 18px;
+	font-size: 15px;
+	color: #000000;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	margin-top: 2px;
@@ -1751,8 +1744,8 @@
 	border-color: #2DB475;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #C4C4C4;
 	line-height: 42px;
+	color: #C4C4C4;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1825,8 +1818,8 @@
 	border-color: #2DB475;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #C4C4C4;
 	line-height: 42px;
+	color: #C4C4C4;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1886,8 +1879,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1914,9 +1907,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #FF0000;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
+	color: #FF0000;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1943,9 +1936,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #00FF00;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
+	color: #00FF00;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2029,8 +2022,8 @@
 	border-color: #2DB475;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #C4C4C4;
 	line-height: 42px;
+	color: #C4C4C4;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2133,8 +2126,8 @@
 	border-color: #2DB475;
 	background-color: #FFFFFF;
 	padding: 6px;
-	color: #C4C4C4;
 	line-height: 42px;
+	color: #C4C4C4;
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2228,6 +2221,19 @@
 	visibility: hidden;
 }
 
+#u4095
+{
+	z-index: 205;
+	width: 60px;
+	min-height: 60px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 764px;
+	margin-top: 426px;
+	position: relative;
+}
+
 #u742-3
 {
 	z-index: 56;
@@ -2241,7 +2247,7 @@
 	font-family: nova-mono, sans-serif;
 	font-weight: 400;
 	margin-left: 20px;
-	margin-top: 536px;
+	margin-top: 50px;
 	position: relative;
 }
 
