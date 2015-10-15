@@ -47,7 +47,9 @@ var __adobewebfontsappname__ = "muse";
      <div class="SlideShowWidget clearfix grpelem" id="slideshowu4502"><!-- none box -->
       <div class="popup_anchor" id="u4514popup">
        <div class="SlideShowContentPanel clearfix" id="u4514"><!-- stack box -->
-        <a class="nonblock nontext SSSlide clip_frame grpelem" id="u4515" href="home.html"><!-- image --><img class="ImageInclude" id="u4515_img" data-src="images/kid-673584.jpg" src="images/blank.gif" alt="" data-width="1220" data-height="814"/></a>
+        <div class="SSSlide clip_frame grpelem" id="u4515"><!-- image -->
+         <img class="ImageInclude" id="u4515_img" data-src="images/kid-673584.jpg" src="images/blank.gif" alt="" data-width="1220" data-height="814"/>
+        </div>
        </div>
       </div>
      </div>
@@ -125,7 +127,7 @@ var __adobewebfontsappname__ = "muse";
      <p id="u3548-8">&nbsp;</p>
     </div>
     <div class="clip_frame mse_pre_init" id="u3545"><!-- image -->
-     <img class="block" id="u3545_img" src="images/adobestock_61116706_wm490x326.jpg" alt="" width="490" height="326"/>
+     <img class="block" id="u3545_img" src="images/adobestock_61116706_wm.jpg" alt="" width="490" height="326"/>
     </div>
     <a class="nonblock nontext rounded-corners clearfix colelem" id="u3561-4" href="register.html"><!-- content --><p id="u3561-2">register</p></a>
     <div class="clip_frame mse_pre_init" id="u3549"><!-- image -->
@@ -184,7 +186,7 @@ var __adobewebfontsappname__ = "muse";
     </div>
     <div class="verticalspacer"></div>
     <div class="browser_width colelem" id="u4449-bw">
-     <div id="u4449"><!-- simple frame --></div>
+     <div class="rounded-corners" id="u4449"><!-- simple frame --></div>
     </div>
     <div class="clearfix colelem" id="pu4450"><!-- group -->
      <div class="browser_width grpelem" id="u4450-bw">
@@ -264,16 +266,16 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('#slideshowu4502', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu4502 */
-$('#u4555').registerOpacityScrollEffect([{"in":[-Infinity,319.22],"fade":375.3,"opacity":100},{"in":[319.22,319.22],"opacity":100},{"in":[319.22,Infinity],"fade":135.7,"opacity":0}]);/* scroll effect */
-$('#u4585').registerOpacityScrollEffect([{"in":[-Infinity,311],"fade":50,"opacity":100},{"in":[311,311],"opacity":100},{"in":[311,Infinity],"fade":136,"opacity":0}]);/* scroll effect */
-$('#u4518-bw').registerPositionScrollEffect([{"in":[-Infinity,594.32],"speed":[null,1]},{"in":[594.32,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u4555').registerOpacityScrollEffect([{"fade":375.3,"in":[-Infinity,319.22],"opacity":100},{"in":[319.22,319.22],"opacity":100},{"fade":135.7,"in":[319.22,Infinity],"opacity":0}]);/* scroll effect */
+$('#u4585').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,311],"opacity":100},{"in":[311,311],"opacity":100},{"fade":136,"in":[311,Infinity],"opacity":0}]);/* scroll effect */
+$('#u4518-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,594.32]},{"speed":[null,0],"in":[594.32,Infinity]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu4519').registerPositionScrollEffect([{"in":[-Infinity,594.32],"speed":[0,1]},{"in":[594.32,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u3540').registerPositionScrollEffect([{"in":[-Infinity,818.3],"speed":[1,1]},{"in":[818.3,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u3545').registerPositionScrollEffect([{"in":[-Infinity,1065],"speed":[-1,1]},{"in":[1065,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u3549').registerPositionScrollEffect([{"in":[-Infinity,1428.95],"speed":[1,1]},{"in":[1428.95,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u3962').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2189],"speed":[0,0]},{"in":[2189,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#menuu4519').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,594.32]},{"speed":[0,0],"in":[594.32,Infinity]}]);/* scroll effect */
+$('#u3540').registerPositionScrollEffect([{"speed":[1,1],"in":[-Infinity,818.3]},{"speed":[0,1],"in":[818.3,Infinity]}]);/* scroll effect */
+$('#u3545').registerPositionScrollEffect([{"speed":[-1,1],"in":[-Infinity,1065]},{"speed":[0,1],"in":[1065,Infinity]}]);/* scroll effect */
+$('#u3549').registerPositionScrollEffect([{"speed":[1,1],"in":[-Infinity,1428.95]},{"speed":[0,1],"in":[1428.95,Infinity]}]);/* scroll effect */
+$('#u3962').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,2189]},{"speed":[0,0],"in":[2189,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

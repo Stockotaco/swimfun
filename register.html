@@ -47,7 +47,9 @@ var __adobewebfontsappname__ = "muse";
      <div class="SlideShowWidget clearfix grpelem" id="slideshowu4502"><!-- none box -->
       <div class="popup_anchor" id="u4514popup">
        <div class="SlideShowContentPanel clearfix" id="u4514"><!-- stack box -->
-        <a class="nonblock nontext SSSlide clip_frame grpelem" id="u4515" href="home.html"><!-- image --><img class="ImageInclude" id="u4515_img" data-src="images/kid-673584.jpg" src="images/blank.gif" alt="" data-width="1220" data-height="814"/></a>
+        <div class="SSSlide clip_frame grpelem" id="u4515"><!-- image -->
+         <img class="ImageInclude" id="u4515_img" data-src="images/kid-673584.jpg" src="images/blank.gif" alt="" data-width="1220" data-height="814"/>
+        </div>
        </div>
       </div>
      </div>
@@ -190,12 +192,12 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('#slideshowu4502', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu4502 */
-$('#u4555').registerOpacityScrollEffect([{"in":[-Infinity,319.22],"fade":375.3,"opacity":100},{"in":[319.22,319.22],"opacity":100},{"in":[319.22,Infinity],"fade":135.7,"opacity":0}]);/* scroll effect */
-$('#u4585').registerOpacityScrollEffect([{"in":[-Infinity,311],"fade":50,"opacity":100},{"in":[311,311],"opacity":100},{"in":[311,Infinity],"fade":136,"opacity":0}]);/* scroll effect */
-$('#u4518-bw').registerPositionScrollEffect([{"in":[-Infinity,594.32],"speed":[null,1]},{"in":[594.32,Infinity],"speed":[null,0]}]);/* scroll effect */
+$('#u4555').registerOpacityScrollEffect([{"fade":375.3,"in":[-Infinity,319.22],"opacity":100},{"in":[319.22,319.22],"opacity":100},{"fade":135.7,"in":[319.22,Infinity],"opacity":0}]);/* scroll effect */
+$('#u4585').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,311],"opacity":100},{"in":[311,311],"opacity":100},{"fade":136,"in":[311,Infinity],"opacity":0}]);/* scroll effect */
+$('#u4518-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,594.32]},{"speed":[null,0],"in":[594.32,Infinity]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu4519').registerPositionScrollEffect([{"in":[-Infinity,594.32],"speed":[0,1]},{"in":[594.32,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#menuu4519').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,594.32]},{"speed":[0,0],"in":[594.32,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
