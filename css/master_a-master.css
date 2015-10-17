@@ -39,10 +39,10 @@
 #u4559-12
 {
 	background-color: transparent;
-	line-height: 36px;
 	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
+	line-height: 36px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -75,10 +75,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -100,10 +100,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -125,10 +125,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 34px;
 	color: #ED1C24;
 	font-size: 28px;
 	text-align: center;
+	line-height: 34px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -151,10 +151,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -176,10 +176,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -215,7 +215,7 @@
 	filter: alpha(opacity=73);
 }
 
-#u4451-24,#u4452-24,#u4453-19
+#u4451-24,#u4452-21,#u4453-19
 {
 	background-color: transparent;
 	position: relative;
@@ -232,7 +232,7 @@
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
-#u4451-9 > li:before,#u4451-22 > li:before,#u4452-9 > li:before,#u4452-22 > li:before,#u4453-8 > li:before,#u4453-17 > li:before
+#u4451-9 > li:before,#u4451-22 > li:before,#u4452-9 > li:before,#u4452-19 > li:before,#u4453-8 > li:before,#u4453-17 > li:before
 {
 	content: '○';
 }
@@ -245,12 +245,12 @@
 	font-weight: 400;
 }
 
-#u4451,#u4451-4,#u4451-9 > #u4451-8:before,#u4451-6,#u4451-22 > #u4451-12:before,#u4451-10,#u4451-22 > #u4451-15:before,#u4451-13,#u4451-22 > #u4451-18:before,#u4451-16,#u4451-22 > #u4451-21:before,#u4451-19,#u4452,#u4452-4,#u4452-9 > #u4452-8:before,#u4452-6,#u4452-22 > #u4452-12:before,#u4452-10,#u4452-22 > #u4452-15:before,#u4452-13,#u4453,#u4453-4,#u4453-8 > #u4453-7:before,#u4453-6,#u4453-17 > #u4453-10:before,#u4453-9,#u4453-17 > #u4453-12:before,#u4453-11,#u4453-17 > #u4453-14:before,#u4453-13
+#u4451,#u4451-4,#u4451-9 > #u4451-8:before,#u4451-6,#u4451-22 > #u4451-12:before,#u4451-10,#u4451-22 > #u4451-15:before,#u4451-13,#u4451-22 > #u4451-18:before,#u4451-16,#u4451-22 > #u4451-21:before,#u4451-19,#u4452,#u4452-4,#u4452-9 > #u4452-8:before,#u4452-6,#u4452-19 > #u4452-12:before,#u4452-10,#u4452-19 > #u4452-15:before,#u4452-13,#u4453,#u4453-4,#u4453-8 > #u4453-7:before,#u4453-6,#u4453-17 > #u4453-10:before,#u4453-9,#u4453-17 > #u4453-12:before,#u4453-11,#u4453-17 > #u4453-14:before,#u4453-13
 {
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
-#u4452-18,#u4452-21,#u4453-16
+#u4452-18,#u4453-16
 {
 	text-align: left;
 	line-height: 21px;
@@ -266,7 +266,7 @@
 	position: relative;
 }
 
-#u4515,#u5355,#u5357
+#u4515,#u5355,#u5414
 {
 	border-style: none;
 	border-color: transparent;
