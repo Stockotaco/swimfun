@@ -125,10 +125,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #ED1C24;
+	line-height: 34px;
 	font-size: 28px;
 	text-align: center;
-	line-height: 34px;
+	color: #ED1C24;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;

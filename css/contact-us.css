@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #000014;
-	background-color: #4DEE9A;
+	color: #00000A;
+	background-color: #3B1E2E;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1868.9499999999985px;
+	min-height: 1868.5499999999984px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -26,7 +26,7 @@
 #page_position_content
 {
 	margin-top: -5px;
-	padding-bottom: 2px;
+	padding-bottom: 1px;
 	width: 0.01px;
 }
 
@@ -38,7 +38,7 @@
 
 #slideshowu4502
 {
-	z-index: 90;
+	z-index: 91;
 	width: 0.01px;
 	height: 595px;
 	margin-right: -10000px;
@@ -47,7 +47,7 @@
 
 #u4514popup
 {
-	z-index: 91;
+	z-index: 92;
 }
 
 #u4514
@@ -58,7 +58,7 @@
 
 #u4515
 {
-	z-index: 92;
+	z-index: 93;
 	width: 1220px;
 	height: 595px;
 	margin-right: -10000px;
@@ -73,7 +73,7 @@
 
 #u4591
 {
-	z-index: 94;
+	z-index: 95;
 	width: 516px;
 	padding-bottom: 8px;
 	top: 17px;
@@ -83,7 +83,7 @@
 
 #u4555
 {
-	z-index: 95;
+	z-index: 96;
 	width: 516px;
 	top: 17px;
 	left: 50%;
@@ -97,7 +97,7 @@
 
 #u4585
 {
-	z-index: 97;
+	z-index: 98;
 	width: 213px;
 	margin-right: -10000px;
 	margin-top: 70px;
@@ -106,7 +106,7 @@
 
 #pu4557
 {
-	z-index: 100;
+	z-index: 101;
 	width: 0.01px;
 	position: relative;
 	margin-left: 39px;
@@ -134,7 +134,7 @@
 
 #u4559-12
 {
-	z-index: 101;
+	z-index: 102;
 	width: 375px;
 	min-height: 349px;
 	margin-right: -10000px;
@@ -142,7 +142,7 @@
 
 #u4518
 {
-	z-index: 99;
+	z-index: 100;
 	height: 70px;
 }
 
@@ -151,13 +151,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 99;
+	z-index: 100;
 	top: 594px;
 }
 
 #menuu4519
 {
-	z-index: 113;
+	z-index: 114;
 	width: 981px;
 	top: 612px;
 	left: 20px;
@@ -414,29 +414,42 @@
 	min-height: 60px;
 	background-color: transparent;
 	line-height: 58px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 21px;
+	margin-top: 85px;
+	position: relative;
+}
+
+#u5589
+{
+	z-index: 22;
+	width: 979px;
+	min-height: 410px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	margin-left: 20px;
-	margin-top: 164px;
+	margin-top: 55px;
 	position: relative;
 }
 
 #u4399-12
 {
 	z-index: 10;
-	width: 973px;
-	min-height: 193px;
+	width: 979px;
+	min-height: 386px;
 	background-color: transparent;
 	font-size: 30px;
 	line-height: 36px;
-	font-family: nova-mono, sans-serif;
-	font-weight: 400;
-	margin-left: 27px;
-	margin-top: 675px;
+	margin-left: 21px;
+	margin-top: 203px;
 	position: relative;
 }
 
 #u4399-2,#u4399-3
 {
 	color: #ED1C24;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
 #u4399-7
@@ -444,16 +457,27 @@
 	color: #0071BC;
 }
 
+#u4399-5,#u4399-8,#u4399-9
+{
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+}
+
+#u4399-10
+{
+	font-family: nova-mono, sans-serif;
+	font-weight: 400;
+}
+
 #u4449
 {
-	z-index: 22;
+	z-index: 23;
 	height: 47px;
 }
 
 #u4449-bw
 {
-	z-index: 22;
-	margin-top: 1032px;
+	z-index: 23;
+	margin-top: 2px;
 	height: 47px;
 }
 
@@ -466,72 +490,72 @@
 
 #u4450
 {
-	z-index: 23;
+	z-index: 24;
 	height: 319px;
 }
 
 #u4450-bw
 {
-	z-index: 23;
+	z-index: 24;
 	margin-top: 1px;
 	height: 319px;
 }
 
 #u4451-24
 {
-	z-index: 24;
+	z-index: 25;
 	width: 305px;
 	min-height: 319px;
 	margin-right: -10000px;
-	left: 129px;
+	left: 125px;
 }
 
 #u4452-21
 {
-	z-index: 48;
+	z-index: 49;
 	width: 313px;
 	min-height: 319px;
 	margin-right: -10000px;
-	left: 454px;
+	left: 450px;
 }
 
 #u4453-19
 {
-	z-index: 69;
+	z-index: 70;
 	width: 313px;
 	min-height: 319px;
 	margin-right: -10000px;
-	left: 787px;
+	left: 783px;
 }
 
 #u4472
 {
-	z-index: 88;
+	z-index: 89;
 	width: 60px;
 	min-height: 60px;
 	margin-right: -10000px;
-	margin-top: 53px;
-	left: 1145px;
+	margin-top: 54px;
+	left: 1141px;
 }
 
 #u5355
-{
-	z-index: 144;
-	width: 200px;
-	min-height: 100px;
-	margin-right: -10000px;
-	margin-top: 195px;
-	left: 900px;
-}
-
-#u5414
 {
 	z-index: 145;
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
+	margin-top: 196px;
+	left: 896px;
+}
+
+#u5414
+{
+	z-index: 146;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
 	margin-top: 8px;
-	left: 900px;
+	left: 896px;
 }
 
 body
