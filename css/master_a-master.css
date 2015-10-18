@@ -49,6 +49,8 @@
 
 #u4518
 {
+	-pie-box-shadow: none;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.5);
 	border-color: #000000;
 	background-color: #000000;
 	opacity: 0.85;
@@ -125,10 +127,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 34px;
+	color: #ED1C24;
 	font-size: 28px;
 	text-align: center;
-	color: #ED1C24;
+	line-height: 34px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;

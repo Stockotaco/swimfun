@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445178688300">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445195714405">
   <folder name="css">
     <file name="site_global.css" crc="160270477"/>
-    <file name="master_a-master.css" crc="3796703123" ref="pricing:how-it-works:contact-us:index:register"/>
-    <file name="pricing.css" crc="3848816420" ref="pricing"/>
-    <file name="how-it-works.css" crc="31876280" ref="how-it-works"/>
+    <file name="master_a-master.css" crc="377823417" ref="pricing:how-it-works:contact-us:index:register"/>
+    <file name="pricing.css" crc="3759734363" ref="pricing"/>
+    <file name="how-it-works.css" crc="488721635" ref="how-it-works"/>
     <file name="contact-us.css" crc="171646510" ref="contact-us"/>
-    <file name="index.css" crc="210752833" ref="index"/>
+    <file name="index.css" crc="287891264" ref="index"/>
     <file name="register.css" crc="3875941230" ref="register"/>
   </folder>
   <folder name="scripts">
@@ -38,9 +38,9 @@
     <file name="swimming-821622_640.jpg" crc="419822889" ref="index"/>
     <file name="sea-416573_640.jpg" crc="4225215538" ref="index"/>
   </folder>
-  <file name="how-it-works.html" crc="3857048017" seo="true" mt="1445178341466" redirect="true"/>
-  <file name="register.html" crc="175588626" seo="true" mt="1445178079147" redirect="true"/>
-  <file name="contact-us.html" crc="3805642284" seo="true" mt="1445178526549" redirect="true"/>
-  <file name="pricing.html" crc="451556096" seo="true" mt="1445178079147" redirect="true"/>
-  <file name="index.html" crc="4182110578" seo="true" mt="1445178600037" redirect="true"/>
+  <file name="how-it-works.html" crc="420548192" seo="true" mt="1445195623640" redirect="true"/>
+  <file name="register.html" crc="441377466" seo="true" mt="1445195508159" redirect="true"/>
+  <file name="contact-us.html" crc="4075608452" seo="true" mt="1445195508159" redirect="true"/>
+  <file name="pricing.html" crc="267581418" seo="true" mt="1445195508159" redirect="true"/>
+  <file name="index.html" crc="4265037523" seo="true" mt="1445195508159" redirect="true"/>
 </manifest>

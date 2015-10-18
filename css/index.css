@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000C;
-	background-color: #8FD541;
+	color: #000011;
+	background-color: #28DF40;
 }
 
 .html
@@ -502,11 +502,11 @@
 	width: 217px;
 	min-height: 35px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
 	line-height: 29px;
+	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -666,11 +666,11 @@
 	width: 217px;
 	min-height: 35px;
 	background-color: transparent;
-	letter-spacing: 1px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
 	line-height: 29px;
+	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -744,11 +744,10 @@
 #buttonu4728
 {
 	z-index: 27;
-	width: 308px;
+	width: 334px;
 	border-color: #787878;
 	background-color: transparent;
 	border-radius: 10px;
-	padding-left: 26px;
 	padding-bottom: 0px;
 	position: fixed;
 	top: 1294px;
@@ -757,7 +756,7 @@
 
 #buttonu4728:hover
 {
-	width: 308px;
+	width: 334px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -769,7 +768,7 @@
 	height: 221px;
 	border-color: #000000;
 	border-radius: 8px;
-	margin-left: 1px;
+	margin-left: 27px;
 	position: relative;
 	background: transparent url("../images/swimming-286215_640.jpg") no-repeat center center;
 }
@@ -781,7 +780,7 @@
 	width: 307px;
 	height: 221px;
 	min-height: 0px;
-	margin: 0px 0px 0px 1px;
+	margin: 0px 0px 0px 27px;
 }
 
 #buttonu4728.ButtonSelected #u4731
@@ -791,7 +790,7 @@
 	width: 307px;
 	height: 221px;
 	min-height: 0px;
-	margin: 0px 0px 0px 1px;
+	margin: 0px 0px 0px 27px;
 }
 
 #u4730-4
@@ -803,6 +802,7 @@
 	font-size: 24px;
 	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 26px;
 	margin-top: 20px;
 	position: relative;
 }
@@ -813,7 +813,16 @@
 	padding-bottom: 0px;
 	min-height: 41px;
 	width: 307px;
-	margin: 20px 0px 0px;
+	margin: 20px 0px 0px 26px;
+}
+
+#buttonu4728.ButtonSelected #u4730-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 41px;
+	width: 307px;
+	margin: 20px 0px 0px 26px;
 }
 
 #buttonu4728:hover #u4730-4 p
@@ -836,6 +845,7 @@
 	background-color: transparent;
 	line-height: 25px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 26px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -846,17 +856,25 @@
 	padding-bottom: 0px;
 	min-height: 93px;
 	width: 307px;
-	margin: 14px 0px 0px;
+	margin: 14px 0px 0px 26px;
+}
+
+#buttonu4728.ButtonSelected #u4729-8
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 93px;
+	width: 307px;
+	margin: 14px 0px 0px 26px;
 }
 
 #buttonu4724
 {
 	z-index: 41;
-	width: 310px;
+	width: 365px;
 	border-color: #787878;
 	background-color: transparent;
 	border-radius: 10px;
-	padding-left: 55px;
 	padding-bottom: 0px;
 	position: fixed;
 	top: 1294px;
@@ -865,7 +883,7 @@
 
 #buttonu4724.ButtonSelected
 {
-	width: 310px;
+	width: 365px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -877,8 +895,19 @@
 	height: 221px;
 	border-color: #000000;
 	border-radius: 8px;
+	margin-left: 55px;
 	position: relative;
 	background: transparent url("../images/swimming-821622_640.jpg") no-repeat center center;
+}
+
+#buttonu4724.ButtonSelected #u4725
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 307px;
+	height: 221px;
+	min-height: 0px;
+	margin: 0px 0px 0px 55px;
 }
 
 #u4727-4
@@ -890,7 +919,7 @@
 	font-size: 24px;
 	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 3px;
+	margin-left: 58px;
 	margin-top: 20px;
 	position: relative;
 }
@@ -901,7 +930,7 @@
 	padding-bottom: 0px;
 	min-height: 41px;
 	width: 307px;
-	margin: 20px 0px 0px 3px;
+	margin: 20px 0px 0px 58px;
 }
 
 #u4726-7
@@ -911,7 +940,7 @@
 	min-height: 93px;
 	background-color: transparent;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 3px;
+	margin-left: 58px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -922,7 +951,7 @@
 	padding-bottom: 0px;
 	min-height: 93px;
 	width: 307px;
-	margin: 14px 0px 0px 3px;
+	margin: 14px 0px 0px 58px;
 }
 
 #buttonu4732
@@ -963,7 +992,7 @@
 	background: transparent url("../images/sea-416573_640.jpg") no-repeat center center;
 }
 
-#buttonu4724.ButtonSelected #u4725,#buttonu4732:hover #u4733
+#buttonu4732:hover #u4733
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -996,7 +1025,7 @@
 	position: relative;
 }
 
-#buttonu4728.ButtonSelected #u4730-4,#buttonu4732:hover #u4735-4
+#buttonu4732:hover #u4735-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1022,7 +1051,7 @@
 	position: relative;
 }
 
-#buttonu4728.ButtonSelected #u4729-8,#buttonu4732:hover #u4734-5
+#buttonu4732:hover #u4734-5
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -1119,11 +1148,11 @@
 	width: 309px;
 	min-height: 103px;
 	background-color: transparent;
-	font-size: 24px;
-	text-align: center;
-	letter-spacing: 1px;
-	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	line-height: 29px;
+	letter-spacing: 1px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;
