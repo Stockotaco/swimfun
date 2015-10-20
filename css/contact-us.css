@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #00000A;
-	background-color: #3B1E2E;
+	color: #000002;
+	background-color: #17CDEC;
 }
 
 .html
@@ -38,7 +38,7 @@
 
 #slideshowu4502
 {
-	z-index: 91;
+	z-index: 94;
 	width: 0.01px;
 	height: 595px;
 	margin-right: -10000px;
@@ -47,7 +47,7 @@
 
 #u4514popup
 {
-	z-index: 92;
+	z-index: 95;
 }
 
 #u4514
@@ -58,7 +58,7 @@
 
 #u4515
 {
-	z-index: 93;
+	z-index: 96;
 	width: 1220px;
 	height: 595px;
 	margin-right: -10000px;
@@ -73,7 +73,7 @@
 
 #u4591
 {
-	z-index: 95;
+	z-index: 98;
 	width: 516px;
 	padding-bottom: 8px;
 	top: 17px;
@@ -83,7 +83,7 @@
 
 #u4555
 {
-	z-index: 96;
+	z-index: 99;
 	width: 516px;
 	top: 17px;
 	left: 50%;
@@ -97,7 +97,7 @@
 
 #u4585
 {
-	z-index: 98;
+	z-index: 101;
 	width: 213px;
 	margin-right: -10000px;
 	margin-top: 70px;
@@ -106,7 +106,7 @@
 
 #pu4557
 {
-	z-index: 101;
+	z-index: 104;
 	width: 0.01px;
 	position: relative;
 	margin-left: 39px;
@@ -134,7 +134,7 @@
 
 #u4559-12
 {
-	z-index: 102;
+	z-index: 105;
 	width: 375px;
 	min-height: 349px;
 	margin-right: -10000px;
@@ -142,7 +142,7 @@
 
 #u4518
 {
-	z-index: 100;
+	z-index: 103;
 	height: 70px;
 }
 
@@ -151,13 +151,13 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 100;
+	z-index: 103;
 	top: 594px;
 }
 
 #menuu4519
 {
-	z-index: 114;
+	z-index: 117;
 	width: 981px;
 	top: 612px;
 	left: 20px;
@@ -501,7 +501,7 @@
 	height: 319px;
 }
 
-#u4451-24
+#u4451-27
 {
 	z-index: 25;
 	width: 305px;
@@ -512,7 +512,7 @@
 
 #u4452-21
 {
-	z-index: 49;
+	z-index: 52;
 	width: 313px;
 	min-height: 319px;
 	margin-right: -10000px;
@@ -521,7 +521,7 @@
 
 #u4453-19
 {
-	z-index: 70;
+	z-index: 73;
 	width: 313px;
 	min-height: 319px;
 	margin-right: -10000px;
@@ -530,7 +530,7 @@
 
 #u4472
 {
-	z-index: 89;
+	z-index: 92;
 	width: 60px;
 	min-height: 60px;
 	margin-right: -10000px;
@@ -540,7 +540,7 @@
 
 #u5355
 {
-	z-index: 145;
+	z-index: 148;
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
@@ -550,7 +550,7 @@
 
 #u5414
 {
-	z-index: 146;
+	z-index: 149;
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
