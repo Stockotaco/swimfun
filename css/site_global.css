@@ -117,7 +117,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.My-custom a
+a,.My-custom a
 {
 	color: inherit;
 	text-decoration: inherit;

@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445195714405">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445316591431">
   <folder name="css">
-    <file name="site_global.css" crc="160270477"/>
-    <file name="master_a-master.css" crc="377823417" ref="pricing:how-it-works:contact-us:index:register"/>
-    <file name="pricing.css" crc="3759734363" ref="pricing"/>
+    <file name="site_global.css" crc="179624129"/>
+    <file name="master_a-master.css" crc="296230530" ref="pricing:how-it-works:contact-us:index:register"/>
+    <file name="pricing.css" crc="127984694" ref="pricing"/>
     <file name="how-it-works.css" crc="488721635" ref="how-it-works"/>
     <file name="contact-us.css" crc="171646510" ref="contact-us"/>
-    <file name="index.css" crc="287891264" ref="index"/>
+    <file name="index.css" crc="192718442" ref="index"/>
     <file name="register.css" crc="3875941230" ref="register"/>
   </folder>
   <folder name="scripts">
@@ -16,17 +16,17 @@
     <file name="jquery.museoverlay.js" crc="342093292" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="touchswipe.js" crc="4218319045" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="how-it-works:register:contact-us:pricing:index"/>
-    <file name="pie.js" crc="3827607177" ref="how-it-works:index"/>
+    <file name="pie.js" crc="3827607177" ref="how-it-works:index:register"/>
     <file name="jquery.watch.js" crc="3999102769" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="jquery.musemenu.js" crc="4042164668" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="how-it-works"/>
     <file name="html5shiv.js" crc="4241844378" ref="how-it-works:register:contact-us:pricing:index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="350115341" ref="how-it-works"/>
+    <file name="favicon.ico" crc="350115341" ref="how-it-works:register"/>
     <file name="kid-673584.jpg" crc="4256929952" seo="true" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="blank.gif" crc="4208392903" ref="how-it-works:register:contact-us:pricing:index"/>
-    <file name="loading.gif" crc="3815509949" ref="how-it-works"/>
+    <file name="loading.gif" crc="3815509949" ref="how-it-works:register"/>
     <file name="cooltext142470234207049.png" crc="3846622420" seo="true" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="cooltext142469387276206.png" crc="3853520861" seo="true" ref="how-it-works:register:contact-us:pricing:index"/>
     <file name="swimming-286215_1920.jpg" crc="4026612274" seo="true" ref="how-it-works"/>
@@ -39,8 +39,8 @@
     <file name="sea-416573_640.jpg" crc="4225215538" ref="index"/>
   </folder>
   <file name="how-it-works.html" crc="420548192" seo="true" mt="1445195623640" redirect="true"/>
-  <file name="register.html" crc="441377466" seo="true" mt="1445195508159" redirect="true"/>
+  <file name="register.html" crc="197518595" seo="true" mt="1445313874948" redirect="true"/>
   <file name="contact-us.html" crc="4075608452" seo="true" mt="1445195508159" redirect="true"/>
-  <file name="pricing.html" crc="267581418" seo="true" mt="1445195508159" redirect="true"/>
-  <file name="index.html" crc="4265037523" seo="true" mt="1445195508159" redirect="true"/>
+  <file name="pricing.html" crc="4186604018" seo="true" mt="1445316104544" redirect="true"/>
+  <file name="index.html" crc="320163905" seo="true" mt="1445311793142" redirect="true"/>
 </manifest>
