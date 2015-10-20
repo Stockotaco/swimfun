@@ -1,0 +1,301 @@
+#pamphletu5987,#u5998
+{
+	position: relative;
+}
+
+#u5999
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u6060
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6065
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6001
+{
+	position: absolute;
+	border-color: #C4C4C4;
+	background-color: transparent;
+}
+
+#u6001:hover
+{
+	border-color: #999999;
+}
+
+#u6001.PamphletThumbSelected
+{
+	border-color: #C4C4C4;
+}
+
+#u6069
+{
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u6070
+{
+	position: relative;
+	background: transparent url("../../images/swirl.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6001:hover #u6070
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: contain;
+}
+
+#u6001.PamphletThumbSelected #u6070
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: contain;
+}
+
+#u5992
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u5993
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	position: relative;
+}
+
+#u5994
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#menuu6002
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u6004
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6004:hover
+{
+	background-color: #999999;
+}
+
+#u6004:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6006-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u6011
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6004.MuseMenuActive,#u6011:hover
+{
+	background-color: #999999;
+}
+
+#u6011:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6012-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u6020
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6011.MuseMenuActive,#u6020:hover
+{
+	background-color: #999999;
+}
+
+#u6020:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6023-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u6025
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6020.MuseMenuActive,#u6025:hover
+{
+	background-color: #999999;
+}
+
+#u6025:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6027-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u6034
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6025.MuseMenuActive,#u6034:hover
+{
+	background-color: #999999;
+}
+
+#u6034:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6035-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u6003,#u6010,#u6017,#u6024,#u6031,#u6038
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6039
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u6034.MuseMenuActive,#u6039:hover
+{
+	background-color: #999999;
+}
+
+#u6039:active
+{
+	background-color: #6B6B6B;
+}
+
+#u6039.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u6041-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u6068
+{
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+}
+
+#u6064
+{
+	background-color: #29ABE2;
+	border-radius: 10px 10px 0px 0px ;
+}
+

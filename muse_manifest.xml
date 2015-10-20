@@ -1,4 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445369471604">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445373080615">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3977085350" ref="phone>how-it-works:phone>local-services:phone>pricing:phone>register:phone>contact-us:phone>index"/>
+      <file name="how-it-works.css" crc="240242964" ref="phone>how-it-works"/>
+      <file name="local-services.css" crc="240242964" ref="phone>local-services"/>
+      <file name="pricing.css" crc="240242964" ref="phone>pricing"/>
+      <file name="register.css" crc="167422100" ref="phone>register"/>
+      <file name="contact-us.css" crc="240242964" ref="phone>contact-us"/>
+      <file name="index.css" crc="240242964" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="320566866" seo="true" mt="1445373071608" redirect="true"/>
+    <file name="pricing.html" crc="4098653467" seo="true" mt="1445373071608" redirect="true"/>
+    <file name="register.html" crc="525602194" seo="true" mt="1445373071608" redirect="true"/>
+    <file name="how-it-works.html" crc="413680053" seo="true" mt="1445373071608" redirect="true"/>
+    <file name="contact-us.html" crc="492094566" seo="true" mt="1445373071608" redirect="true"/>
+    <file name="local-services.html" crc="4262590529" seo="true" mt="1445373071608" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="160270477"/>
     <file name="master_a-master.css" crc="4141512526" ref="pricing:how-it-works:contact-us:index:register:local-services"/>
@@ -10,26 +27,27 @@
     <file name="local-services.css" crc="4245535960" ref="local-services"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="museutils.js" crc="275725342" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="webpro.js" crc="3883484123" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="touchswipe.js" crc="4218319045" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="museutils.js" crc="275725342" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="webpro.js" crc="3883484123" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="touchswipe.js" crc="4218319045" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
     <file name="jquery.scrolleffects.js" crc="206645848" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="pie.js" crc="3827607177" ref="how-it-works:index:register:local-services"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="how-it-works"/>
-    <file name="html5shiv.js" crc="4241844378" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
+    <file name="pie.js" crc="3827607177" ref="how-it-works:index:register:local-services:phone>index:phone>register"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="how-it-works:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="museredirect.js" crc="3899419633" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="350115341" ref="how-it-works:register"/>
+    <file name="favicon.ico" crc="3951764814" ref="phone>index"/>
     <file name="kid-673584.jpg" crc="4256929952" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="blank.gif" crc="4208392903" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="loading.gif" crc="3815509949" ref="how-it-works:register"/>
-    <file name="cooltext142470234207049.png" crc="3846622420" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="cooltext142469387276206.png" crc="3853520861" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
+    <file name="loading.gif" crc="3815509949" ref="how-it-works"/>
+    <file name="cooltext142470234207049.png" crc="3846622420" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
+    <file name="cooltext142469387276206.png" crc="3853520861" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
     <file name="swimming-286215_1920.jpg" crc="4026612274" seo="true" ref="how-it-works"/>
     <file name="swimming-821622_1920.jpg" crc="3768676839" seo="true" ref="how-it-works"/>
     <file name="beach-677785.jpg" crc="55253891" seo="true" ref="how-it-works"/>
@@ -39,11 +57,12 @@
     <file name="swimming-821622_640.jpg" crc="419822889" ref="index"/>
     <file name="sea-416573_640.jpg" crc="4225215538" ref="index"/>
     <file name="line-divider.png" crc="4147845827" seo="true" ref="local-services"/>
+    <file name="swirl.png" crc="433599388" ref="phone>index"/>
   </folder>
-  <file name="how-it-works.html" crc="490232848" seo="true" mt="1445360380478" redirect="true"/>
-  <file name="register.html" crc="370806875" seo="true" mt="1445369226055" redirect="true"/>
-  <file name="contact-us.html" crc="4163384135" seo="true" mt="1445360297657" redirect="true"/>
-  <file name="pricing.html" crc="172084383" seo="true" mt="1445369336783" redirect="true"/>
-  <file name="index.html" crc="4234721283" seo="true" mt="1445360297657" redirect="true"/>
-  <file name="local-services.html" crc="3955359431" seo="true" mt="1445363805666" redirect="true"/>
+  <file name="how-it-works.html" crc="55814226" seo="true" mt="1445370147553" redirect="true"/>
+  <file name="register.html" crc="3777791563" seo="true" mt="1445370147463" redirect="true"/>
+  <file name="contact-us.html" crc="361137846" seo="true" mt="1445370147638" redirect="true"/>
+  <file name="pricing.html" crc="3759602013" seo="true" mt="1445370147386" redirect="true"/>
+  <file name="index.html" crc="4152437754" seo="true" mt="1445370147302" redirect="true"/>
+  <file name="local-services.html" crc="319902012" seo="true" mt="1445370147730" redirect="true"/>
 </manifest>

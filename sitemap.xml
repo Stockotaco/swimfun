@@ -53,35 +53,41 @@
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/how-it-works.html"/>
   </url>
   <url>
     <loc>http://musefree.com/register.html</loc>
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/register.html"/>
   </url>
   <url>
     <loc>http://musefree.com/contact-us.html</loc>
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/contact-us.html"/>
   </url>
   <url>
     <loc>http://musefree.com/pricing.html</loc>
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/pricing.html"/>
   </url>
   <url>
     <loc>http://musefree.com/index.html</loc>
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://musefree.com/local-services.html</loc>
     <lastmod>2015-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://musefree.com/phone/local-services.html"/>
   </url>
 </urlset>
