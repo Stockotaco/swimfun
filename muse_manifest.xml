@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445369047768">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445369471604">
   <folder name="css">
     <file name="site_global.css" crc="160270477"/>
     <file name="master_a-master.css" crc="4141512526" ref="pricing:how-it-works:contact-us:index:register:local-services"/>
-    <file name="pricing.css" crc="4220501654" ref="pricing"/>
+    <file name="pricing.css" crc="4072865471" ref="pricing"/>
     <file name="how-it-works.css" crc="313725722" ref="how-it-works"/>
     <file name="contact-us.css" crc="35114476" ref="contact-us"/>
     <file name="index.css" crc="3838338473" ref="index"/>
-    <file name="register.css" crc="518994984" ref="register"/>
+    <file name="register.css" crc="4078983786" ref="register"/>
     <file name="local-services.css" crc="4245535960" ref="local-services"/>
   </folder>
   <folder name="scripts">
@@ -24,10 +24,10 @@
     <file name="html5shiv.js" crc="4241844378" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="350115341" ref="how-it-works"/>
+    <file name="favicon.ico" crc="350115341" ref="how-it-works:register"/>
     <file name="kid-673584.jpg" crc="4256929952" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="blank.gif" crc="4208392903" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
-    <file name="loading.gif" crc="3815509949" ref="how-it-works"/>
+    <file name="loading.gif" crc="3815509949" ref="how-it-works:register"/>
     <file name="cooltext142470234207049.png" crc="3846622420" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="cooltext142469387276206.png" crc="3853520861" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="swimming-286215_1920.jpg" crc="4026612274" seo="true" ref="how-it-works"/>
@@ -41,9 +41,9 @@
     <file name="line-divider.png" crc="4147845827" seo="true" ref="local-services"/>
   </folder>
   <file name="how-it-works.html" crc="490232848" seo="true" mt="1445360380478" redirect="true"/>
-  <file name="register.html" crc="107890900" seo="true" mt="1445368408229" redirect="true"/>
+  <file name="register.html" crc="370806875" seo="true" mt="1445369226055" redirect="true"/>
   <file name="contact-us.html" crc="4163384135" seo="true" mt="1445360297657" redirect="true"/>
-  <file name="pricing.html" crc="3882220987" seo="true" mt="1445360297657" redirect="true"/>
+  <file name="pricing.html" crc="172084383" seo="true" mt="1445369336783" redirect="true"/>
   <file name="index.html" crc="4234721283" seo="true" mt="1445360297657" redirect="true"/>
   <file name="local-services.html" crc="3955359431" seo="true" mt="1445363805666" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.pricing /* version checker */
 {
-	color: #0000FB;
-	background-color: #8FBE96;
+	color: #0000F2;
+	background-color: #C2FEBF;
 }
 
 .html
@@ -638,11 +638,10 @@
 {
 	z-index: 56;
 	width: 770px;
-	height: 326px;
+	height: 374px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 48px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -654,25 +653,14 @@
 	min-height: 265px;
 	background-color: transparent;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	margin-left: 3px;
 	position: relative;
-}
-
-#u5611-6
-{
-	z-index: 61;
-	width: 480px;
-	min-height: 62px;
-	background-color: transparent;
-	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	top: -1px;
-	margin-bottom: -1px;
-	position: relative;
+	margin-right: -10000px;
+	left: 3px;
 }
 
 #u5331
 {
-	z-index: 67;
+	z-index: 61;
 	width: 182px;
 	position: relative;
 	margin-right: -10000px;
@@ -728,7 +716,7 @@
 
 #u5337-4
 {
-	z-index: 70;
+	z-index: 64;
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
@@ -799,7 +787,7 @@
 
 #u5335-4
 {
-	z-index: 77;
+	z-index: 71;
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
@@ -861,7 +849,7 @@
 
 #u5341-4
 {
-	z-index: 82;
+	z-index: 76;
 	width: 180px;
 	min-height: 20px;
 	border-color: #DEDEDE;
@@ -913,7 +901,7 @@
 
 #u5343-4
 {
-	z-index: 87;
+	z-index: 81;
 	width: 180px;
 	min-height: 20px;
 	border-color: #DEDEDE;
@@ -982,7 +970,7 @@
 
 #u5333-4
 {
-	z-index: 92;
+	z-index: 86;
 	width: 180px;
 	min-height: 20px;
 	border-color: #DEDEDE;
@@ -1033,6 +1021,18 @@
 	cursor: pointer;
 }
 
+#u5611-6
+{
+	z-index: 90;
+	width: 480px;
+	min-height: 62px;
+	background-color: transparent;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	margin-left: 250px;
+	margin-top: 8px;
+	position: relative;
+}
+
 #u4449
 {
 	z-index: 117;
@@ -1042,7 +1042,7 @@
 #u4449-bw
 {
 	z-index: 117;
-	margin-top: 349px;
+	margin-top: 279px;
 	height: 47px;
 }
 
