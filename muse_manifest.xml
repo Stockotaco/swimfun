@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445316591431">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445357878855">
   <folder name="css">
-    <file name="site_global.css" crc="179624129"/>
-    <file name="master_a-master.css" crc="296230530" ref="pricing:how-it-works:contact-us:index:register"/>
+    <file name="site_global.css" crc="160270477"/>
+    <file name="master_a-master.css" crc="4044797926" ref="pricing:how-it-works:contact-us:index:register"/>
     <file name="pricing.css" crc="127984694" ref="pricing"/>
     <file name="how-it-works.css" crc="488721635" ref="how-it-works"/>
     <file name="contact-us.css" crc="171646510" ref="contact-us"/>
     <file name="index.css" crc="192718442" ref="index"/>
-    <file name="register.css" crc="3875941230" ref="register"/>
+    <file name="register.css" crc="210439109" ref="register"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="how-it-works:register:contact-us:pricing:index"/>
@@ -39,7 +39,7 @@
     <file name="sea-416573_640.jpg" crc="4225215538" ref="index"/>
   </folder>
   <file name="how-it-works.html" crc="420548192" seo="true" mt="1445195623640" redirect="true"/>
-  <file name="register.html" crc="197518595" seo="true" mt="1445313874948" redirect="true"/>
+  <file name="register.html" crc="392816825" seo="true" mt="1445357509387" redirect="true"/>
   <file name="contact-us.html" crc="4075608452" seo="true" mt="1445195508159" redirect="true"/>
   <file name="pricing.html" crc="4186604018" seo="true" mt="1445316104544" redirect="true"/>
   <file name="index.html" crc="320163905" seo="true" mt="1445311793142" redirect="true"/>
