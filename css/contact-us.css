@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #00000C;
-	background-color: #E5E6D6;
+	color: #0000F8;
+	background-color: #7E082E;
 }
 
 .html
@@ -433,16 +433,16 @@
 	position: relative;
 }
 
-#u6120-5
+#u6130-5
 {
-	z-index: 147;
+	z-index: 151;
 	width: 313px;
 	min-height: 31px;
 	background-color: transparent;
 	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 21px;
-	top: -857px;
+	top: -451px;
 	margin-bottom: -31px;
 	position: relative;
 }
@@ -484,7 +484,7 @@
 {
 	z-index: 13;
 	width: 200px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 485px;
 }
@@ -493,7 +493,7 @@
 {
 	z-index: 40;
 	width: 141px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 708px;
 }
@@ -563,6 +563,16 @@
 	margin-right: -10000px;
 	margin-top: 153px;
 	left: 121px;
+}
+
+#u6131-4
+{
+	z-index: 147;
+	width: 223px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 296px;
+	left: 499px;
 }
 
 body

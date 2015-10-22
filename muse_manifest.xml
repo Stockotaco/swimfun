@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445486987427">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="musefree.com" resolutions="1x" timestamp="1445492942363">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3977085350" ref="phone>how-it-works:phone>local-services:phone>pricing:phone>register:phone>contact-us:phone>index"/>
@@ -18,13 +18,13 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="160270477"/>
-    <file name="master_a-master.css" crc="3786741482" ref="pricing:how-it-works:contact-us:index:register:local-services"/>
-    <file name="pricing.css" crc="4035356037" ref="pricing"/>
-    <file name="how-it-works.css" crc="93271912" ref="how-it-works"/>
-    <file name="contact-us.css" crc="216393430" ref="contact-us"/>
-    <file name="index.css" crc="3850726042" ref="index"/>
-    <file name="register.css" crc="4158742274" ref="register"/>
-    <file name="local-services.css" crc="170084375" ref="local-services"/>
+    <file name="master_a-master.css" crc="3972400517" ref="pricing:how-it-works:contact-us:index:register:local-services"/>
+    <file name="pricing.css" crc="4106637459" ref="pricing"/>
+    <file name="how-it-works.css" crc="326626295" ref="how-it-works"/>
+    <file name="contact-us.css" crc="4169009198" ref="contact-us"/>
+    <file name="index.css" crc="47997229" ref="index"/>
+    <file name="register.css" crc="153616198" ref="register"/>
+    <file name="local-services.css" crc="216471808" ref="local-services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:phone>local-services"/>
@@ -42,7 +42,7 @@
     <file name="museredirect.js" crc="3899419633" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3951764814" ref="phone>index"/>
+    <file name="favicon.ico" crc="350115341" ref="phone>index:how-it-works"/>
     <file name="kid-673584.jpg" crc="4256929952" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="blank.gif" crc="4208392903" ref="how-it-works:register:contact-us:pricing:index:local-services"/>
     <file name="loading.gif" crc="3815509949" ref="how-it-works"/>
@@ -59,10 +59,10 @@
     <file name="line-divider.png" crc="4147845827" seo="true" ref="local-services"/>
     <file name="swirl.png" crc="433599388" ref="phone>index"/>
   </folder>
-  <file name="how-it-works.html" crc="17106086" seo="true" mt="1445486933651" redirect="true"/>
-  <file name="register.html" crc="93407841" seo="true" mt="1445486933652" redirect="true"/>
-  <file name="contact-us.html" crc="304298021" seo="true" mt="1445486933654" redirect="true"/>
-  <file name="pricing.html" crc="3956817604" seo="true" mt="1445486949498" redirect="true"/>
-  <file name="index.html" crc="420119457" seo="true" mt="1445486933943" redirect="true"/>
-  <file name="local-services.html" crc="45727610" seo="true" mt="1445486933944" redirect="true"/>
+  <file name="how-it-works.html" crc="157449504" seo="true" mt="1445490568948" redirect="true"/>
+  <file name="register.html" crc="4237065304" seo="true" mt="1445492670931" redirect="true"/>
+  <file name="contact-us.html" crc="3759490348" seo="true" mt="1445490568948" redirect="true"/>
+  <file name="pricing.html" crc="449771954" seo="true" mt="1445490568948" redirect="true"/>
+  <file name="index.html" crc="4077379176" seo="true" mt="1445490568948" redirect="true"/>
+  <file name="local-services.html" crc="159721162" seo="true" mt="1445490568948" redirect="true"/>
 </manifest>

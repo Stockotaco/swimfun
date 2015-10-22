@@ -1,7 +1,7 @@
 .version.pricing /* version checker */
 {
-	color: #0000F0;
-	background-color: #86A585;
+	color: #0000F4;
+	background-color: #C65093;
 }
 
 .html
@@ -1058,7 +1058,7 @@
 {
 	z-index: 113;
 	width: 200px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 485px;
 }
@@ -1067,7 +1067,7 @@
 {
 	z-index: 140;
 	width: 141px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 708px;
 }
@@ -1137,6 +1137,16 @@
 	margin-right: -10000px;
 	margin-top: 153px;
 	left: 121px;
+}
+
+#u6131-4
+{
+	z-index: 247;
+	width: 223px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 296px;
+	left: 499px;
 }
 
 body

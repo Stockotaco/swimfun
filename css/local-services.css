@@ -1,7 +1,7 @@
 .version.local_services /* version checker */
 {
-	color: #00000A;
-	background-color: #234817;
+	color: #00000C;
+	background-color: #E71900;
 }
 
 .html
@@ -598,7 +598,7 @@
 {
 	z-index: 30;
 	width: 200px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 485px;
 }
@@ -607,7 +607,7 @@
 {
 	z-index: 57;
 	width: 141px;
-	min-height: 319px;
+	min-height: 288px;
 	margin-right: -10000px;
 	left: 708px;
 }
@@ -677,6 +677,16 @@
 	margin-right: -10000px;
 	margin-top: 153px;
 	left: 121px;
+}
+
+#u6131-4
+{
+	z-index: 164;
+	width: 223px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 296px;
+	left: 499px;
 }
 
 body
