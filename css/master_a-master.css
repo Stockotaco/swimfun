@@ -40,9 +40,9 @@
 {
 	background-color: transparent;
 	line-height: 36px;
-	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
+	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -78,9 +78,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
-	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -103,9 +103,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
-	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -128,9 +128,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 34px;
-	color: #ED1C24;
 	font-size: 28px;
 	text-align: center;
+	color: #ED1C24;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -154,9 +154,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
-	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -179,9 +179,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
-	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
+	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -215,12 +215,6 @@
 	opacity: 0.73;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=73)";
 	filter: alpha(opacity=73);
-}
-
-#u4451-27,#u4452-21,#u4453-19
-{
-	background-color: transparent;
-	position: relative;
 }
 
 #u4451-3,#u4452-3,#u4453-3
@@ -273,6 +267,20 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	position: relative;
+}
+
+#u4451-27,#u4452-21,#u4453-19,#u6104,#u6107
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u6110-5
+{
+	background-color: transparent;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
 
