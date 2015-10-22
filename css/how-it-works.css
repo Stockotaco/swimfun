@@ -1,7 +1,7 @@
 .version.how_it_works /* version checker */
 {
-	color: #000012;
-	background-color: #B3131A;
+	color: #000016;
+	background-color: #BD9CBA;
 }
 
 .html
@@ -534,10 +534,10 @@
 	min-height: 52px;
 	background-color: #0071BC;
 	border-radius: 5px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -561,8 +561,8 @@
 	width: 471px;
 	min-height: 217px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	margin-left: 21px;
 	margin-top: 47px;
 	position: relative;
@@ -612,10 +612,10 @@
 	min-height: 52px;
 	background-color: #ED1C24;
 	border-radius: 5px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -648,8 +648,8 @@
 	width: 471px;
 	min-height: 214px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	margin-left: 529px;
 	margin-top: 72px;
 	position: relative;
@@ -685,10 +685,10 @@
 	min-height: 52px;
 	background-color: #0071BC;
 	border-radius: 5px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 671px;
 	margin-top: 27px;
@@ -777,10 +777,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	filter: alpha(opacity=85);
 	border-radius: 15px;
-	text-align: center;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
@@ -802,10 +802,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 172px;
@@ -822,10 +822,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 172px;
@@ -854,10 +854,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 442px;
@@ -874,8 +874,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	text-align: center;
 	color: #FFFFFF;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 442px;
@@ -930,10 +930,10 @@
 	width: 490px;
 	min-height: 95px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #000000;
+	font-size: 24px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 58px;

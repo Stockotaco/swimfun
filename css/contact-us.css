@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #000002;
-	background-color: #17CDEC;
+	color: #000008;
+	background-color: #E7A014;
 }
 
 .html
@@ -439,8 +439,8 @@
 	width: 979px;
 	min-height: 386px;
 	background-color: transparent;
-	font-size: 30px;
 	line-height: 36px;
+	font-size: 30px;
 	margin-left: 21px;
 	margin-top: 203px;
 	position: relative;

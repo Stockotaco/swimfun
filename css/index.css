@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E4;
-	background-color: #C865A9;
+	color: #000000;
+	background-color: #3A8FC1;
 }
 
 .html
@@ -502,11 +502,11 @@
 	width: 217px;
 	min-height: 35px;
 	background-color: transparent;
-	letter-spacing: 1px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -666,11 +666,11 @@
 	width: 217px;
 	min-height: 35px;
 	background-color: transparent;
-	letter-spacing: 1px;
-	text-align: center;
-	font-size: 24px;
 	line-height: 29px;
 	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -806,8 +806,8 @@
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 26px;
 	margin-top: 20px;
@@ -923,8 +923,8 @@
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 58px;
 	margin-top: 20px;
@@ -1025,8 +1025,8 @@
 	width: 307px;
 	min-height: 41px;
 	background-color: transparent;
-	font-size: 24px;
 	line-height: 29px;
+	font-size: 24px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-top: 20px;
 	position: relative;
@@ -1123,8 +1123,8 @@
 	width: 313px;
 	min-height: 19px;
 	background-color: transparent;
-	text-align: center;
 	font-size: 18px;
+	text-align: center;
 	line-height: 22px;
 	position: relative;
 }
@@ -1177,11 +1177,11 @@
 	width: 309px;
 	min-height: 103px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 24px;
-	color: #FFFFFF;
-	letter-spacing: 1px;
 	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	letter-spacing: 1px;
+	text-align: center;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 17px;

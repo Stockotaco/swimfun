@@ -1,7 +1,7 @@
 .version.register /* version checker */
 {
-	color: #000009;
-	background-color: #FAA894;
+	color: #00001F;
+	background-color: #5B3CF5;
 }
 
 @-ms-viewport
@@ -563,10 +563,10 @@
 	width: 198px;
 	min-height: 41px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 30px;
 	line-height: 36px;
 	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
