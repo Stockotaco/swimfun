@@ -1,7 +1,7 @@
 .version.pricing /* version checker */
 {
-	color: #0000F4;
-	background-color: #C65093;
+	color: #00000F;
+	background-color: #B5A3F5;
 }
 
 .html
@@ -720,8 +720,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -791,8 +791,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -854,8 +854,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -906,8 +906,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -975,8 +975,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;

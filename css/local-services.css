@@ -1,7 +1,7 @@
 .version.local_services /* version checker */
 {
-	color: #00000C;
-	background-color: #E71900;
+	color: #00000A;
+	background-color: #D47296;
 }
 
 .html
@@ -421,8 +421,8 @@
 	min-height: 40px;
 	background-color: transparent;
 	font-size: 31px;
-	color: #FF0000;
 	line-height: 37px;
+	color: #FF0000;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -540,9 +540,9 @@
 	min-height: 28px;
 	background-color: transparent;
 	line-height: 22px;
+	color: #FFFFFF;
 	font-size: 18px;
 	text-align: center;
-	color: #FFFFFF;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.how_it_works /* version checker */
 {
-	color: #000013;
-	background-color: #77EBF7;
+	color: #0000ED;
+	background-color: #1CE386;
 }
 
 .html
@@ -407,6 +407,13 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#howitworks
+{
+	margin-left: 29px;
+	margin-top: 79px;
+	position: relative;
+}
+
 #u3347-4
 {
 	z-index: 84;
@@ -416,7 +423,7 @@
 	line-height: 58px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 20px;
-	margin-top: 164px;
+	margin-top: 67px;
 	position: relative;
 }
 
@@ -535,9 +542,9 @@
 	background-color: #0071BC;
 	border-radius: 5px;
 	line-height: 29px;
+	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -613,9 +620,9 @@
 	background-color: #ED1C24;
 	border-radius: 5px;
 	line-height: 29px;
+	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -686,9 +693,9 @@
 	background-color: #0071BC;
 	border-radius: 5px;
 	line-height: 29px;
+	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 671px;
 	margin-top: 27px;
@@ -777,9 +784,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	filter: alpha(opacity=85);
 	border-radius: 15px;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
@@ -802,9 +809,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
@@ -822,9 +829,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
@@ -854,9 +861,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
 	filter: alpha(opacity=90);
 	border-radius: 50px;
-	font-size: 30px;
-	color: #FFFFFF;
 	line-height: 36px;
+	color: #FFFFFF;
+	font-size: 30px;
 	text-align: center;
 	position: relative;
 	margin-right: -10000px;
@@ -931,9 +938,9 @@
 	min-height: 95px;
 	background-color: transparent;
 	line-height: 29px;
+	color: #000000;
 	font-size: 24px;
 	text-align: center;
-	color: #000000;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 58px;

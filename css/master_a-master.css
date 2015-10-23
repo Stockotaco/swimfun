@@ -40,9 +40,9 @@
 {
 	background-color: transparent;
 	line-height: 36px;
+	color: #FFFFFF;
 	font-size: 30px;
 	text-align: center;
-	color: #FFFFFF;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -50,7 +50,7 @@
 #u4518
 {
 	-pie-box-shadow: none;
-	box-shadow: 0px 8px 8px rgba(0,0,0,0.5);
+	box-shadow: 0px 5px 8px rgba(0,0,0,0.5);
 	border-color: #000000;
 	background-color: #000000;
 	opacity: 0.85;
@@ -78,9 +78,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
+	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -103,9 +103,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
+	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -128,9 +128,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 34px;
+	color: #ED1C24;
 	font-size: 28px;
 	text-align: center;
-	color: #ED1C24;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -154,9 +154,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
+	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -179,9 +179,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 28px;
+	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	color: #0071BC;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
