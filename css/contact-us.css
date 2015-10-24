@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000EA;
-	background-color: #E56185;
+	color: #000008;
+	background-color: #FAA3F8;
 }
 
 .html
@@ -159,21 +159,21 @@
 {
 	z-index: 105;
 	width: 981px;
-	top: 612px;
+	top: 594px;
 	left: 20px;
 }
 
 #u4527
 {
 	width: 170px;
-	min-height: 34px;
+	min-height: 70px;
 	margin-right: -10000px;
 }
 
 #u4528
 {
 	width: 170px;
-	padding-bottom: 6px;
+	padding-bottom: 42px;
 }
 
 #u4528:hover
@@ -195,7 +195,7 @@
 	width: 122px;
 	min-height: 28px;
 	margin-right: -10000px;
-	top: 3px;
+	top: 21px;
 	left: 24px;
 }
 
@@ -220,7 +220,7 @@
 #u4520
 {
 	width: 152px;
-	min-height: 34px;
+	min-height: 70px;
 	margin-right: -10000px;
 	left: 172px;
 }
@@ -228,7 +228,7 @@
 #u4521
 {
 	width: 152px;
-	padding-bottom: 6px;
+	padding-bottom: 42px;
 }
 
 #u4521.MuseMenuActive
@@ -243,7 +243,7 @@
 	width: 104px;
 	min-height: 28px;
 	margin-right: -10000px;
-	top: 3px;
+	top: 21px;
 	left: 24px;
 }
 
@@ -268,7 +268,7 @@
 #u4548
 {
 	width: 210px;
-	min-height: 34px;
+	min-height: 70px;
 	margin-right: -10000px;
 	left: 326px;
 }
@@ -276,6 +276,7 @@
 #u4551
 {
 	width: 210px;
+	padding-bottom: 36px;
 }
 
 #u4551.MuseMenuActive
@@ -290,6 +291,7 @@
 	width: 162px;
 	min-height: 34px;
 	margin-right: -10000px;
+	top: 18px;
 	left: 24px;
 }
 
@@ -314,7 +316,7 @@
 #u4534
 {
 	width: 239px;
-	min-height: 34px;
+	min-height: 70px;
 	margin-right: -10000px;
 	left: 538px;
 }
@@ -322,7 +324,7 @@
 #u4535
 {
 	width: 239px;
-	padding-bottom: 6px;
+	padding-bottom: 42px;
 }
 
 #u4535.MuseMenuActive
@@ -337,7 +339,7 @@
 	width: 191px;
 	min-height: 28px;
 	margin-right: -10000px;
-	top: 3px;
+	top: 21px;
 	left: 24px;
 }
 
@@ -362,7 +364,7 @@
 #u4541
 {
 	width: 202px;
-	min-height: 34px;
+	min-height: 70px;
 	margin-right: -10000px;
 	left: 779px;
 }
@@ -370,7 +372,7 @@
 #u4542
 {
 	width: 202px;
-	padding-bottom: 6px;
+	padding-bottom: 42px;
 }
 
 #u4542.MuseMenuActive
@@ -385,7 +387,7 @@
 	width: 154px;
 	min-height: 28px;
 	margin-right: -10000px;
-	top: 3px;
+	top: 21px;
 	left: 24px;
 }
 
