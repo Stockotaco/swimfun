@@ -1,17 +1,6 @@
-#u4514
-{
-	position: absolute;
-	background-color: transparent;
-}
-
 .SSSlideLoading /* slideshowFreeStyle */
 {
 	background: url("../images/loading.gif") no-repeat center center;
-}
-
-#slideshowu4502,#home
-{
-	position: relative;
 }
 
 #u4555
@@ -34,9 +23,120 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=59)";
 	filter: alpha(opacity=59);
 	border-radius: 10px;
+	position: relative;
 }
 
-#u4559-12
+#slideshowu4502,#home,#pamphletu6451,#u6456
+{
+	position: relative;
+}
+
+#u6458
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 100px;
+}
+
+#u6466
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 100px;
+}
+
+#u6468
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 100px;
+}
+
+#u6458.PamphletThumbSelected,#u6466.PamphletThumbSelected,#u6468.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+}
+
+#u4514,#u6452
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u6471-14
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u6471,#u6471-3,#u6471-4
+{
+	font-size: 30px;
+	line-height: 36px;
+}
+
+#u6471-6,#u6471-8,#u6471-10
+{
+	font-size: 20px;
+	line-height: 24px;
+}
+
+#u6471-12
+{
+	font-size: 12px;
+	line-height: 14px;
+}
+
+#u6478-6
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u6478-5
+{
+	font-size: 18px;
+	line-height: 22px;
+}
+
+#u6455,#u6467,#u6469
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	border-radius: 0px;
+	position: relative;
+}
+
+#u6478-12,#u6482-7
+{
+	background-color: transparent;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
+	position: relative;
+}
+
+#u6473-4
 {
 	background-color: transparent;
 	line-height: 36px;
@@ -53,9 +153,9 @@
 	box-shadow: 0px 5px 8px rgba(0,0,0,0.5);
 	border-color: #000000;
 	background-color: #000000;
-	opacity: 0.85;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
-	filter: alpha(opacity=85);
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
 }
 
 #u4591,#menuu4519
@@ -198,7 +298,7 @@
 	visibility: inherit;
 }
 
-.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.MenuItem /* slideshowFreeStyle */
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.MenuItem /* slideshowFreeStyle */
 {
 	cursor: pointer;
 }
