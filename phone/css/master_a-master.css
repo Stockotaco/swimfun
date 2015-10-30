@@ -1,96 +1,44 @@
-#pamphletu5987,#u5998
+#pamphletu6793,#u6796
 {
 	position: relative;
 }
 
-#u5999
-{
-	position: absolute;
-	border-color: #DEDEDE;
-	background-color: transparent;
-}
-
-#u6060
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u6065
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u6001
+#u6798
 {
 	position: absolute;
 	border-color: #C4C4C4;
 	background-color: transparent;
 }
 
-#u6001:hover
-{
-	border-color: #999999;
-}
-
-#u6001.PamphletThumbSelected
-{
-	border-color: #C4C4C4;
-}
-
-#u6069
-{
-	background-color: #000000;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	position: relative;
-}
-
-#u6070
+#u6799
 {
 	position: relative;
-	background: transparent url("../../images/swirl.png") no-repeat left top;
+	background: transparent url("../../images/swimfun%20logo-u6799-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u6001:hover #u6070
+#u6798.PamphletThumbSelected #u6799
 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	background-size: contain;
 }
 
-#u6001.PamphletThumbSelected #u6070
+#u6797
 {
-	background-repeat: no-repeat;
-	background-position: left top;
-	background-size: contain;
+	position: absolute;
 }
 
-#u5992
+#u6804
 {
 	position: absolute;
 	background-color: transparent;
 }
 
-#u5993
+#u6805,#u6806
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-	position: relative;
-}
-
-#u5994
-{
-	border-width: 1px;
-	border-style: solid;
-	border-color: #999999;
 	background-color: transparent;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -98,183 +46,156 @@
 	position: relative;
 }
 
-#menuu6002
+#menuu6807
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u6004
-{
 	background-color: #000000;
 	position: relative;
 }
 
-#u6004:hover
+#u6811
+{
+	background-color: #0071BC;
+	position: relative;
+}
+
+#u6811:hover
 {
 	background-color: #999999;
 }
 
-#u6004:active
+#u6811:active
 {
 	background-color: #6B6B6B;
 }
 
-#u6006-4
+#u6813-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u6011
+#u6816
 {
-	background-color: #000000;
+	background-color: #0071BC;
 	position: relative;
 }
 
-#u6004.MuseMenuActive,#u6011:hover
+#u6811.MuseMenuActive,#u6816:hover
 {
 	background-color: #999999;
 }
 
-#u6011:active
+#u6816:active
 {
 	background-color: #6B6B6B;
 }
 
-#u6012-4
+#u6817-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u6020
+#u6825
 {
-	background-color: #000000;
+	background-color: #0071BC;
 	position: relative;
 }
 
-#u6011.MuseMenuActive,#u6020:hover
+#u6816.MuseMenuActive,#u6825:hover
 {
 	background-color: #999999;
 }
 
-#u6020:active
+#u6825:active
 {
 	background-color: #6B6B6B;
 }
 
-#u6023-4
+#u6827-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u6025
+#u6830
 {
-	background-color: #000000;
+	background-color: #0071BC;
 	position: relative;
 }
 
-#u6020.MuseMenuActive,#u6025:hover
+#u6825.MuseMenuActive,#u6830:hover
 {
 	background-color: #999999;
 }
 
-#u6025:active
+#u6830:active
 {
 	background-color: #6B6B6B;
 }
 
-#u6027-4
+#u6831-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u6034
+#u6808,#u6815,#u6822,#u6829,#u6836
 {
-	background-color: #000000;
+	background-color: transparent;
 	position: relative;
 }
 
-#u6025.MuseMenuActive,#u6034:hover
+#u6839
+{
+	background-color: #0071BC;
+	position: relative;
+}
+
+#u6830.MuseMenuActive,#u6839:hover
 {
 	background-color: #999999;
 }
 
-#u6034:active
+#u6839:active
 {
 	background-color: #6B6B6B;
 }
 
-#u6035-4
+#u6839.MuseMenuActive
+{
+	background-color: #999999;
+}
+
+#u6842-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FFFFFF;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u6003,#u6010,#u6017,#u6024,#u6031,#u6038
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u6039
-{
-	background-color: #000000;
-	position: relative;
-}
-
-#u6034.MuseMenuActive,#u6039:hover
-{
-	background-color: #999999;
-}
-
-#u6039:active
-{
-	background-color: #6B6B6B;
-}
-
-#u6039.MuseMenuActive
-{
-	background-color: #999999;
-}
-
-#u6041-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -284,16 +205,7 @@
 	cursor: pointer;
 }
 
-#u6068
-{
-	background-color: #000000;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	position: relative;
-}
-
-#u6064
+#u6846
 {
 	background-color: #29ABE2;
 	border-radius: 10px 10px 0px 0px ;
