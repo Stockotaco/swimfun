@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #000009;
-	background-color: #8793FB;
+	color: #000011;
+	background-color: #E35C06;
 }
 
 .html
@@ -108,8 +108,8 @@
 {
 	z-index: 108;
 	width: 0.01px;
-	height: 315px;
-	padding-bottom: 5px;
+	height: 313px;
+	padding-bottom: 7px;
 	margin-right: -10000px;
 	margin-top: 100px;
 	left: 14px;
@@ -118,70 +118,70 @@
 #u6456
 {
 	z-index: 109;
-	width: 70px;
+	width: 40px;
 	margin-right: -10000px;
-	margin-top: 298px;
-	left: 165px;
+	margin-top: 300px;
+	left: 180px;
 }
 
 #u6458
 {
 	width: 27px;
-	padding-bottom: 5px;
-	top: -5px;
-	left: -6px;
+	padding-bottom: 7px;
+	top: -7px;
+	left: -8px;
 }
 
 #u6614
 {
 	z-index: 111;
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 6px;
+	margin-top: 7px;
+	left: 8px;
 }
 
 #u6458:hover #u6614
 {
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	min-height: 0px;
-	margin: 5px -10000px 0px 0px;
+	margin: 7px -10000px 0px 0px;
 }
 
 #u6632
 {
 	width: 27px;
-	padding-bottom: 5px;
-	top: -5px;
-	left: 22px;
+	padding-bottom: 7px;
+	top: -7px;
+	left: 7px;
 }
 
 #u6636
 {
 	z-index: 113;
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 6px;
+	margin-top: 7px;
+	left: 8px;
 }
 
 #u6458.PamphletThumbSelected #u6614,#u6632:hover #u6636
 {
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	min-height: 0px;
-	margin: 5px -10000px 0px 0px;
+	margin: 7px -10000px 0px 0px;
 }
 
 #u6637
 {
 	width: 27px;
-	padding-bottom: 5px;
-	top: -5px;
-	left: 49px;
+	padding-bottom: 7px;
+	top: -7px;
+	left: 21px;
 }
 
 #u6458.PamphletThumbSelected,#u6632.PamphletThumbSelected,#u6637.PamphletThumbSelected
@@ -194,27 +194,27 @@
 #u6640
 {
 	z-index: 115;
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 6px;
+	margin-top: 7px;
+	left: 8px;
 }
 
 #u6632.PamphletThumbSelected #u6636,#u6637:hover #u6640
 {
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	min-height: 0px;
-	margin: 5px -10000px 0px 0px;
+	margin: 7px -10000px 0px 0px;
 }
 
 #u6637.PamphletThumbSelected #u6640
 {
-	width: 16px;
-	height: 17px;
+	width: 12px;
+	height: 13px;
 	min-height: 0px;
-	margin: 5px -10000px 0px 0px;
+	margin: 7px -10000px 0px 0px;
 }
 
 #u6452popup
@@ -269,17 +269,19 @@
 	margin-right: -10000px;
 }
 
-.ie #u6639
+#u6891-9
 {
-	background-color: #FFFFFF;
-	opacity: 0.01;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
-	filter: alpha(opacity=1);
+	z-index: 144;
+	width: 408px;
+	min-height: 272px;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 8px;
 }
 
 #u6473-4
 {
-	z-index: 144;
+	z-index: 153;
 	width: 427px;
 	min-height: 84px;
 	margin-right: -10000px;
@@ -584,7 +586,7 @@
 
 #u6130-5
 {
-	z-index: 175;
+	z-index: 184;
 	width: 313px;
 	min-height: 31px;
 	background-color: transparent;
@@ -713,7 +715,7 @@
 
 #u4451-27
 {
-	z-index: 148;
+	z-index: 157;
 	width: 200px;
 	min-height: 288px;
 	margin-right: -10000px;

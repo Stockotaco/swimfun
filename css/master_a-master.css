@@ -52,13 +52,13 @@
 #u6614
 {
 	position: relative;
-	background: transparent url("../images/circle-composite.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u6458:hover #u6614
 {
-	background: transparent url("../images/circle-rollover.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-r-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -72,13 +72,13 @@
 #u6636
 {
 	position: relative;
-	background: transparent url("../images/circle-composite.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u6632:hover #u6636
 {
-	background: transparent url("../images/circle-rollover.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-r-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -92,19 +92,19 @@
 #u6640
 {
 	position: relative;
-	background: transparent url("../images/circle-composite.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u6637:hover #u6640
 {
-	background: transparent url("../images/circle-rollover.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-r-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u6458.PamphletThumbSelected #u6614,#u6632.PamphletThumbSelected #u6636,#u6637.PamphletThumbSelected #u6640
 {
-	background: transparent url("../images/circle-active.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-a-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -168,6 +168,17 @@
 {
 	border-style: none;
 	background-color: transparent;
+	position: relative;
+}
+
+#u6891-9
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
 
