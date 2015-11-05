@@ -1,7 +1,7 @@
 .version.how_it_works /* version checker */
 {
-	color: #000002;
-	background-color: #7E6EE1;
+	color: #0000E8;
+	background-color: #F657AC;
 }
 
 @-ms-viewport
@@ -49,15 +49,15 @@
 {
 	z-index: 3;
 	width: 0.01px;
-	height: 90px;
-	padding-bottom: 210px;
+	height: 71px;
+	padding-bottom: 229px;
 	margin-right: -10000px;
 }
 
 #u6796
 {
 	z-index: 4;
-	width: 306px;
+	width: 305px;
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 3px;
@@ -65,14 +65,15 @@
 
 #u6798
 {
-	width: 309px;
+	width: 489px;
+	padding-bottom: 19px;
 	top: -4px;
 	left: -3px;
 }
 
 #u6798.PamphletThumbSelected
 {
-	width: 309px;
+	width: 489px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -80,8 +81,8 @@
 #u6799
 {
 	z-index: 6;
-	width: 306px;
-	height: 86px;
+	width: 305px;
+	height: 67px;
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 3px;
@@ -89,8 +90,8 @@
 
 #u6798.PamphletThumbSelected #u6799
 {
-	width: 306px;
-	height: 86px;
+	width: 305px;
+	height: 67px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
 }

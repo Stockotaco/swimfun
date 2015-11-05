@@ -19,8 +19,7 @@
 
 #u6798.PamphletThumbSelected #u6799
 {
-	background-repeat: no-repeat;
-	background-position: left top;
+	background: transparent url("../../images/logo-u6799-a-fr.png") no-repeat left top;
 	background-size: contain;
 }
 

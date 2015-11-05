@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #F5A41B;
+	color: #00000C;
+	background-color: #BCCDEC;
 }
 
 @-ms-viewport
@@ -55,14 +55,14 @@
 {
 	z-index: 83;
 	width: 0.01px;
-	height: 90px;
-	padding-bottom: 210px;
+	height: 71px;
+	padding-bottom: 229px;
 }
 
 #u6796
 {
 	z-index: 84;
-	width: 306px;
+	width: 305px;
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 3px;
@@ -70,14 +70,15 @@
 
 #u6798
 {
-	width: 309px;
+	width: 489px;
+	padding-bottom: 19px;
 	top: -4px;
 	left: -3px;
 }
 
 #u6798.PamphletThumbSelected
 {
-	width: 309px;
+	width: 489px;
 	min-height: 0px;
 	margin: 0px;
 }
@@ -85,8 +86,8 @@
 #u6799
 {
 	z-index: 86;
-	width: 306px;
-	height: 86px;
+	width: 305px;
+	height: 67px;
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 3px;
@@ -94,8 +95,8 @@
 
 #u6798.PamphletThumbSelected #u6799
 {
-	width: 306px;
-	height: 86px;
+	width: 305px;
+	height: 67px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
 }
@@ -451,10 +452,10 @@
 	width: 355px;
 	min-height: 24px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FBB03B;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 7px;
 	top: -68px;
@@ -655,10 +656,10 @@
 	width: 107px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 14px;
 	color: #FFFFFF;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
@@ -720,10 +721,10 @@
 	width: 103px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 14px;
 	color: #FFFFFF;
 	font-size: 12px;
 	text-align: center;
-	line-height: 14px;
 	letter-spacing: 1px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
@@ -762,10 +763,10 @@
 	width: 355px;
 	min-height: 24px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FBB03B;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 7px;
 	margin-top: 31px;
