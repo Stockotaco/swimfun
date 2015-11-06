@@ -1,7 +1,7 @@
 .version.register /* version checker */
 {
-	color: #000006;
-	background-color: #54B9F2;
+	color: #000008;
+	background-color: #7828BF;
 }
 
 .html
@@ -268,7 +268,7 @@
 #u7022
 {
 	z-index: 225;
-	width: 526px;
+	width: 532px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 121px;

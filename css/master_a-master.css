@@ -19,11 +19,6 @@
 	position: relative;
 }
 
-#home,#slideshowu4502,#pamphletu6451,#u6456
-{
-	position: relative;
-}
-
 #u6458
 {
 	position: absolute;
@@ -175,6 +170,17 @@
 	position: relative;
 }
 
+#home,#slideshowu4502,#pamphletu6451,#u6456,#u7022
+{
+	position: relative;
+}
+
+#u7022_img
+{
+	display: block;
+	vertical-align: top;
+}
+
 #u4518
 {
 	-pie-box-shadow: none;
@@ -194,7 +200,7 @@
 	position: fixed;
 }
 
-#u7022,#u4527,#u4528
+#u4527,#u4528
 {
 	background-color: transparent;
 	position: relative;

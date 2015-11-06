@@ -1,7 +1,7 @@
 .version.local_services /* version checker */
 {
-	color: #0000E4;
-	background-color: #091F7A;
+	color: #0000E0;
+	background-color: #F55C80;
 }
 
 .html
@@ -269,7 +269,7 @@
 #u7022
 {
 	z-index: 201;
-	width: 526px;
+	width: 532px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 121px;

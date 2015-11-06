@@ -1,7 +1,7 @@
 .version.how_it_works /* version checker */
 {
-	color: #00000C;
-	background-color: #F04B43;
+	color: #0000FA;
+	background-color: #C8F9F9;
 }
 
 .html
@@ -269,7 +269,7 @@
 #u7022
 {
 	z-index: 307;
-	width: 526px;
+	width: 532px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	left: 121px;
