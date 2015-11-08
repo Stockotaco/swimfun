@@ -1,7 +1,7 @@
 .version.our_curriculum /* version checker */
 {
-	color: #0000FE;
-	background-color: #9AAB1F;
+	color: #0000F3;
+	background-color: #D6F806;
 }
 
 .html
@@ -95,8 +95,8 @@
 {
 	z-index: 94;
 	width: 0.01px;
-	height: 276px;
-	padding-bottom: 7px;
+	height: 275px;
+	padding-bottom: 8px;
 	margin-right: -10000px;
 	margin-top: 290px;
 	left: 29px;
@@ -105,70 +105,78 @@
 #u6456
 {
 	z-index: 95;
-	width: 44px;
+	width: 41px;
 	margin-right: -10000px;
-	margin-top: 262px;
-	left: 196px;
+	margin-top: 263px;
+	left: 197px;
 }
 
 #u6458
 {
 	width: 27px;
-	padding-bottom: 7px;
-	top: -7px;
-	left: -8px;
+	padding-bottom: 9px;
+	top: -8px;
+	left: -9px;
 }
 
 #u6614
 {
 	z-index: 97;
-	width: 12px;
-	height: 13px;
+	width: 9px;
+	height: 10px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 8px;
+	margin-top: 9px;
+	left: 9px;
 }
 
 #u6458:hover #u6614
 {
-	width: 12px;
-	height: 13px;
+	width: 9px;
+	height: 10px;
 	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6632
 {
 	width: 27px;
-	padding-bottom: 7px;
-	top: -7px;
-	left: 9px;
+	padding-bottom: 9px;
+	top: -8px;
+	left: 7px;
 }
 
 #u6636
 {
 	z-index: 99;
-	width: 12px;
-	height: 13px;
+	width: 9px;
+	height: 10px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 8px;
+	margin-top: 9px;
+	left: 9px;
 }
 
 #u6458.PamphletThumbSelected #u6614,#u6632:hover #u6636
 {
-	width: 12px;
-	height: 13px;
+	width: 9px;
+	height: 10px;
 	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
+}
+
+#u6632.PamphletThumbSelected #u6636
+{
+	width: 9px;
+	height: 10px;
+	min-height: 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6637
 {
 	width: 27px;
-	padding-bottom: 7px;
-	top: -7px;
-	left: 24px;
+	padding-bottom: 8px;
+	top: -8px;
+	left: 23px;
 }
 
 #u6458.PamphletThumbSelected,#u6632.PamphletThumbSelected,#u6637.PamphletThumbSelected
@@ -181,27 +189,27 @@
 #u6640
 {
 	z-index: 101;
-	width: 12px;
-	height: 13px;
+	width: 10px;
+	height: 11px;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 8px;
+	margin-top: 8px;
+	left: 9px;
 }
 
-#u6632.PamphletThumbSelected #u6636,#u6637:hover #u6640
+#u6637:hover #u6640
 {
-	width: 12px;
-	height: 13px;
+	width: 10px;
+	height: 11px;
 	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
+	margin: 8px -10000px 0px 0px;
 }
 
 #u6637.PamphletThumbSelected #u6640
 {
-	width: 12px;
-	height: 13px;
+	width: 10px;
+	height: 11px;
 	min-height: 0px;
-	margin: 7px -10000px 0px 0px;
+	margin: 8px -10000px 0px 0px;
 }
 
 #u6452popup
