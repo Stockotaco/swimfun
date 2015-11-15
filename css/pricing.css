@@ -1,12 +1,12 @@
 .version.pricing /* version checker */
 {
-	color: #000005;
-	background-color: #455D00;
+	color: #0000EB;
+	background-color: #B63D71;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #F1F1F1;
 }
 
 #page
@@ -97,7 +97,7 @@
 	z-index: 325;
 	width: 41px;
 	margin-right: -10000px;
-	margin-top: 263px;
+	margin-top: 264px;
 	left: 197px;
 }
 
@@ -105,7 +105,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: -9px;
 }
 
@@ -131,7 +131,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: 7px;
 }
 
@@ -165,7 +165,7 @@
 {
 	width: 27px;
 	padding-bottom: 8px;
-	top: -8px;
+	top: -9px;
 	left: 23px;
 }
 
@@ -180,26 +180,26 @@
 {
 	z-index: 331;
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 9px;
 	left: 9px;
 }
 
 #u6637:hover #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6637.PamphletThumbSelected #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6452popup
@@ -1285,8 +1285,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 }
 
@@ -1356,8 +1356,8 @@
 	width: 180px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1419,8 +1419,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1471,8 +1471,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1532,8 +1532,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1601,8 +1601,8 @@
 	min-height: 20px;
 	border-color: #DEDEDE;
 	background-color: transparent;
-	color: #000000;
 	line-height: 20px;
+	color: #000000;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1692,7 +1692,7 @@
 #u4453-19
 {
 	z-index: 255;
-	width: 200px;
+	width: 229px;
 	min-height: 319px;
 	margin-right: -10000px;
 	left: 871px;

@@ -1,12 +1,12 @@
 .version.register /* version checker */
 {
-	color: #0000E0;
-	background-color: #66BBA7;
+	color: #00001B;
+	background-color: #FB7923;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #F1F1F1;
 }
 
 #page
@@ -96,7 +96,7 @@
 	z-index: 146;
 	width: 41px;
 	margin-right: -10000px;
-	margin-top: 263px;
+	margin-top: 264px;
 	left: 197px;
 }
 
@@ -104,7 +104,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: -9px;
 }
 
@@ -130,7 +130,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: 7px;
 }
 
@@ -164,7 +164,7 @@
 {
 	width: 27px;
 	padding-bottom: 8px;
-	top: -8px;
+	top: -9px;
 	left: 23px;
 }
 
@@ -179,26 +179,26 @@
 {
 	z-index: 152;
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 9px;
 	left: 9px;
 }
 
 #u6637:hover #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6637.PamphletThumbSelected #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6452popup
@@ -622,8 +622,8 @@
 	min-height: 77px;
 	background-color: transparent;
 	color: #000000;
-	line-height: 16px;
 	font-size: 13px;
+	line-height: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 4px;
 	margin-top: 5px;
@@ -744,7 +744,7 @@
 #u4453-19
 {
 	z-index: 76;
-	width: 200px;
+	width: 229px;
 	min-height: 319px;
 	margin-right: -10000px;
 	left: 871px;

@@ -1,12 +1,12 @@
 .version.our_curriculum /* version checker */
 {
-	color: #0000F3;
-	background-color: #D6F806;
+	color: #0000ED;
+	background-color: #BF7226;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #F1F1F1;
 }
 
 #page
@@ -107,7 +107,7 @@
 	z-index: 95;
 	width: 41px;
 	margin-right: -10000px;
-	margin-top: 263px;
+	margin-top: 264px;
 	left: 197px;
 }
 
@@ -115,7 +115,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: -9px;
 }
 
@@ -141,7 +141,7 @@
 {
 	width: 27px;
 	padding-bottom: 9px;
-	top: -8px;
+	top: -9px;
 	left: 7px;
 }
 
@@ -175,7 +175,7 @@
 {
 	width: 27px;
 	padding-bottom: 8px;
-	top: -8px;
+	top: -9px;
 	left: 23px;
 }
 
@@ -190,26 +190,26 @@
 {
 	z-index: 101;
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	margin-right: -10000px;
-	margin-top: 8px;
+	margin-top: 9px;
 	left: 9px;
 }
 
 #u6637:hover #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6637.PamphletThumbSelected #u6640
 {
 	width: 10px;
-	height: 11px;
+	height: 10px;
 	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
+	margin: 9px -10000px 0px 0px;
 }
 
 #u6452popup
@@ -591,7 +591,7 @@
 #u4453-19
 {
 	z-index: 25;
-	width: 200px;
+	width: 229px;
 	min-height: 319px;
 	margin-right: -10000px;
 	left: 871px;
