@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Stgeorgeswimlessons.com" resolutions="1x" timestamp="1447627906667">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Stgeorgeswimlessons.com" resolutions="1x" timestamp="1447771091302">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="3847406401" ref="phone>how-it-works:phone>pricing:phone>register:phone>contact-us:phone>index"/>
@@ -16,16 +16,16 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3938001360"/>
-    <file name="master_a-master.css" crc="425556139" ref="pricing:how-it-works:contact-us:index:register:local-services:why-choose-swimfun:meet-the-instructors:our-curriculum"/>
-    <file name="pricing.css" crc="3954589041" ref="pricing"/>
-    <file name="how-it-works.css" crc="4101670366" ref="how-it-works"/>
-    <file name="contact-us.css" crc="142379509" ref="contact-us"/>
-    <file name="index.css" crc="372060444" ref="index"/>
-    <file name="register.css" crc="469465379" ref="register"/>
-    <file name="local-services.css" crc="259319325" ref="local-services"/>
-    <file name="why-choose-swimfun.css" crc="3988746790" ref="why-choose-swimfun"/>
-    <file name="meet-the-instructors.css" crc="3988746790" ref="meet-the-instructors"/>
-    <file name="our-curriculum.css" crc="3988746790" ref="our-curriculum"/>
+    <file name="master_a-master.css" crc="465358997" ref="pricing:how-it-works:contact-us:index:register:local-services:why-choose-swimfun:meet-the-instructors:our-curriculum"/>
+    <file name="pricing.css" crc="4175922442" ref="pricing"/>
+    <file name="how-it-works.css" crc="315415946" ref="how-it-works"/>
+    <file name="contact-us.css" crc="164938566" ref="contact-us"/>
+    <file name="index.css" crc="4222657236" ref="index"/>
+    <file name="register.css" crc="360513516" ref="register"/>
+    <file name="local-services.css" crc="3877471279" ref="local-services"/>
+    <file name="why-choose-swimfun.css" crc="191218567" ref="why-choose-swimfun"/>
+    <file name="meet-the-instructors.css" crc="191218567" ref="meet-the-instructors"/>
+    <file name="our-curriculum.css" crc="191218567" ref="our-curriculum"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="how-it-works:register:contact-us:pricing:index:local-services:phone>index:phone>pricing:phone>register:phone>how-it-works:phone>contact-us:why-choose-swimfun:our-curriculum:meet-the-instructors"/>
@@ -58,23 +58,21 @@
     <file name="sea-416573_640-u4733.png" crc="190189241" ref="index"/>
     <file name="sea-416573_640-u4733-r.png" crc="190189241" ref="index"/>
     <file name="swimfun logo-u6799-fr.png" crc="3959856647" ref="phone>index"/>
-    <file name="circle-u6614-fr.png" crc="379314519" ref="how-it-works"/>
-    <file name="circle-u6614-r-fr.png" crc="4258977855" ref="how-it-works"/>
+    <file name="circle-u6614-fr.png" crc="3835686733" ref="how-it-works"/>
+    <file name="circle-u6614-r-fr.png" crc="4243569668" ref="how-it-works"/>
     <file name="logo-u6799-a-fr.png" crc="3918400519" ref="phone>index"/>
     <file name="logo.png" crc="3883767895" seo="true" ref="how-it-works:register:contact-us:pricing:index:local-services:why-choose-swimfun:our-curriculum:meet-the-instructors"/>
     <file name="logo-u7022.png" crc="125988899" ref="how-it-works:register:contact-us:pricing:index:local-services:why-choose-swimfun:our-curriculum:meet-the-instructors"/>
-    <file name="circle-u6614-a-fr.png" crc="4142982333" ref="how-it-works"/>
-    <file name="circle-u6640-fr.png" crc="3835686733" ref="how-it-works"/>
-    <file name="circle-u6640-r-fr.png" crc="4243569668" ref="how-it-works"/>
-    <file name="circle-u6640-a-fr.png" crc="4059006098" ref="how-it-works"/>
+    <file name="circle.png" crc="201079993" ref="how-it-works"/>
+    <file name="circle2.png" crc="226411700" ref="how-it-works"/>
   </folder>
-  <file name="how-it-works.html" crc="3986226727" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="register.html" crc="3794663230" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="contact-us.html" crc="409991121" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="pricing.html" crc="304747314" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="index.html" crc="288450643" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="local-services.html" crc="3817050606" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="why-choose-swimfun.html" crc="4070862579" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="our-curriculum.html" crc="167797347" seo="true" mt="1447627883226" redirect="true"/>
-  <file name="meet-the-instructors.html" crc="129577201" seo="true" mt="1447627883226" redirect="true"/>
+  <file name="how-it-works.html" crc="4059839234" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="register.html" crc="210191138" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="contact-us.html" crc="3967813444" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="pricing.html" crc="59220036" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="index.html" crc="104291229" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="local-services.html" crc="3924924899" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="why-choose-swimfun.html" crc="326659683" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="our-curriculum.html" crc="3837518525" seo="true" mt="1447771053562" redirect="true"/>
+  <file name="meet-the-instructors.html" crc="107491704" seo="true" mt="1447771053562" redirect="true"/>
 </manifest>

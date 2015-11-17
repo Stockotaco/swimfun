@@ -39,6 +39,12 @@
 	background-size: contain;
 }
 
+#u6458.PamphletThumbSelected #u6614
+{
+	background: transparent url("../images/circle.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u6632
 {
 	position: absolute;
@@ -59,12 +65,6 @@
 	background-size: contain;
 }
 
-#u6458.PamphletThumbSelected #u6614,#u6632.PamphletThumbSelected #u6636
-{
-	background: transparent url("../images/circle-u6614-a-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
 #u6637
 {
 	position: absolute;
@@ -75,19 +75,19 @@
 #u6640
 {
 	position: relative;
-	background: transparent url("../images/circle-u6640-fr.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
 #u6637:hover #u6640
 {
-	background: transparent url("../images/circle-u6640-r-fr.png") no-repeat left top;
+	background: transparent url("../images/circle-u6614-r-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u6637.PamphletThumbSelected #u6640
+#u6632.PamphletThumbSelected #u6636,#u6637.PamphletThumbSelected #u6640
 {
-	background: transparent url("../images/circle-u6640-a-fr.png") no-repeat left top;
+	background: transparent url("../images/circle2.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -157,10 +157,10 @@
 #u6891-9
 {
 	background-color: transparent;
+	line-height: 29px;
 	color: #FFFFFF;
 	font-size: 24px;
 	text-align: center;
-	line-height: 29px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -168,10 +168,10 @@
 #u6473-4
 {
 	background-color: transparent;
+	line-height: 38px;
 	color: #FFFFFF;
 	font-size: 32px;
 	text-align: center;
-	line-height: 38px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -217,10 +217,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -242,10 +242,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -267,10 +267,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 34px;
 	color: #FBB03B;
 	font-size: 28px;
 	text-align: center;
-	line-height: 34px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -293,10 +293,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -318,10 +318,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 28px;
 	color: #0071BC;
 	font-size: 23px;
 	text-align: center;
-	line-height: 28px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	position: relative;
 }
@@ -370,14 +370,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
-	position: relative;
-}
-
-#u4515,#u5355,#u5414
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
 	position: relative;
 }
 
@@ -434,6 +426,14 @@
 
 #u4452-21,#u4453-19,#u4451-27,#u6977-5,#u7028
 {
+	background-color: transparent;
+	position: relative;
+}
+
+#u4515,#u5355,#u5414,#u7375
+{
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 }

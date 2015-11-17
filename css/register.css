@@ -1,7 +1,7 @@
 .version.register /* version checker */
 {
-	color: #00001B;
-	background-color: #FB7923;
+	color: #000015;
+	background-color: #7CFFEC;
 }
 
 .html
@@ -103,7 +103,7 @@
 #u6458
 {
 	width: 27px;
-	padding-bottom: 9px;
+	padding-bottom: 8px;
 	top: -9px;
 	left: -9px;
 }
@@ -111,8 +111,8 @@
 #u6614
 {
 	z-index: 148;
-	width: 9px;
-	height: 10px;
+	width: 10px;
+	height: 11px;
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 9px;
@@ -120,8 +120,8 @@
 
 #u6458:hover #u6614
 {
-	width: 9px;
-	height: 10px;
+	width: 10px;
+	height: 11px;
 	min-height: 0px;
 	margin: 9px -10000px 0px 0px;
 }
@@ -129,7 +129,7 @@
 #u6632
 {
 	width: 27px;
-	padding-bottom: 9px;
+	padding-bottom: 8px;
 	top: -9px;
 	left: 7px;
 }
@@ -137,8 +137,8 @@
 #u6636
 {
 	z-index: 150;
-	width: 9px;
-	height: 10px;
+	width: 10px;
+	height: 11px;
 	margin-right: -10000px;
 	margin-top: 9px;
 	left: 9px;
@@ -146,16 +146,16 @@
 
 #u6458.PamphletThumbSelected #u6614,#u6632:hover #u6636
 {
-	width: 9px;
-	height: 10px;
+	width: 10px;
+	height: 11px;
 	min-height: 0px;
 	margin: 9px -10000px 0px 0px;
 }
 
 #u6632.PamphletThumbSelected #u6636
 {
-	width: 9px;
-	height: 10px;
+	width: 10px;
+	height: 11px;
 	min-height: 0px;
 	margin: 9px -10000px 0px 0px;
 }
@@ -621,9 +621,9 @@
 	width: 192px;
 	min-height: 77px;
 	background-color: transparent;
+	line-height: 16px;
 	color: #000000;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: Verdana, Tahoma, Geneva, sans-serif;
 	margin-left: 4px;
 	margin-top: 5px;
@@ -826,6 +826,16 @@
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 121px;
+}
+
+#u7375
+{
+	z-index: 230;
+	width: 200px;
+	min-height: 100px;
+	margin-right: -10000px;
+	margin-top: 207px;
+	left: 186px;
 }
 
 body
